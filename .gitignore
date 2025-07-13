@@ -1,2 +1,5 @@
 model.safetensors
 */model.safetensors
+
+.venv
+*/.venv
