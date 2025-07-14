@@ -1,2 +1,2 @@
-# datascience-nlp
-Data Science repository for nlp learning and projects 
+# data-science
+Data Science repository for learning it's concept
