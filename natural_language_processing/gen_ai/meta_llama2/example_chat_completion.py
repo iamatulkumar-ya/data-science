@@ -8,6 +8,7 @@ import fire
 from llama import Llama, Dialog
 
 
+
 def main(
     ckpt_dir: str,
     tokenizer_path: str,
