@@ -1,7 +1,7 @@
-nltk==3.9.1
-ipykernel==6.30.0
 pandas==2.3.1
 numpy==2.3.1
+nltk==3.9.1
+ipykernel==6.30.0
 imbalanced-learn
 scikit-learn==1.6.1
 transformers==4.53.2
