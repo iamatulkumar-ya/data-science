@@ -5,3 +5,5 @@ model.safetensors
 */.venv
 */.venv*
 .venv*
+
+**/vectordb/*

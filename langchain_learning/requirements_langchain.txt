@@ -5,3 +5,5 @@ faiss-cpu
 ipykernel
 bs4
 pypdf
+langchain-ollama
+mermaid-py
