@@ -1,0 +1,1 @@
+LLM agents are AI systems that use a large language model (LLM) as their core "brain" to perform complex tasks by reasoning, planning, and interacting with tools.
