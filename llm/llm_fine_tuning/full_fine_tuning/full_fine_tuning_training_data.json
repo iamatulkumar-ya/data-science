@@ -1,0 +1,2858 @@
+[
+    {
+        "text": "Quote: To be, or not to be, | Author: William Shakespeare | Source: Hamlet | Completion: that is the question"
+    },
+    {
+        "text": "Quote: The only thing we have to fear is | Author: Franklin D Roosevelt | Source: First Inaugural Address | Completion: fear itself"
+    },
+    {
+        "text": "Quote: In the end, we will remember not the words of our enemies, but | Author: Martin Luther King Jr | Source: Civil Rights Speeches | Completion: the silence of our friends"
+    },
+    {
+        "text": "Quote: Thats one small step for a man, | Author: Neil Armstrong | Source: Moon Landing | Completion: one giant leap for mankind"
+    },
+    {
+        "text": "Quote: I think, therefore | Author: René Descartes | Source: Discourse on the Method | Completion: I am"
+    },
+    {
+        "text": "Quote: The unexamined life is | Author: Socrates | Source: Apology | Completion: not worth living"
+    },
+    {
+        "text": "Quote: Success is not final, failure is not fatal: it is | Author: Winston Churchill | Source: Post-War Speeches | Completion: the courage to continue that counts"
+    },
+    {
+        "text": "Quote: Be the change that you | Author: Mahatma Gandhi | Source: Attributed | Completion: wish to see in the world"
+    },
+    {
+        "text": "Quote: Darkness cannot drive out darkness; only | Author: Martin Luther King Jr | Source: Strength to Love | Completion: light can do that"
+    },
+    {
+        "text": "Quote: Spread love everywhere you go Let no one ever come to you without | Author: Mother Teresa | Source: Attributed | Completion: leaving happier"
+    },
+    {
+        "text": "Quote: The only way to do great work is to | Author: Steve Jobs | Source: Stanford Commencement | Completion: love what you do"
+    },
+    {
+        "text": "Quote: Well done is | Author: Benjamin Franklin | Source: Poor Richards Almanack | Completion: better than well said"
+    },
+    {
+        "text": "Quote: It always seems impossible until | Author: Nelson Mandela | Source: Attributed | Completion: its done"
+    },
+    {
+        "text": "Quote: The best way to predict the future is to | Author: Peter Drucker | Source: Management Principles | Completion: create it"
+    },
+    {
+        "text": "Quote: He who has a why to live can bear | Author: Friedrich Nietzsche | Source: Twilight of the Idols | Completion: almost any how"
+    },
+    {
+        "text": "Quote: Imagination is more important than | Author: Albert Einstein | Source: 1929 Interview | Completion: knowledge"
+    },
+    {
+        "text": "Quote: The journey of a thousand miles begins with | Author: Lao Tzu | Source: Tao Te Ching | Completion: one step"
+    },
+    {
+        "text": "Quote: Do not go where the path may lead, go instead where there is no path and | Author: Ralph Waldo Emerson | Source: Attributed | Completion: leave a trail"
+    },
+    {
+        "text": "Quote: Keep your face always toward the sunshine—and | Author: Walt Whitman | Source: Attributed | Completion: shadows will fall behind you"
+    },
+    {
+        "text": "Quote: No one can make you feel inferior without | Author: Eleanor Roosevelt | Source: This Is My Story | Completion: your consent"
+    },
+    {
+        "text": "Quote: The only limit to our realization of tomorrow will be | Author: Franklin D Roosevelt | Source: Final Speeches | Completion: our doubts of today"
+    },
+    {
+        "text": "Quote: The power of imagination makes us | Author: John Muir | Source: Attributed | Completion: infinite"
+    },
+    {
+        "text": "Quote: Whatever you are, | Author: Abraham Lincoln | Source: Attributed | Completion: be a good one"
+    },
+    {
+        "text": "Quote: The secret of getting ahead is | Author: Mark Twain | Source: Attributed | Completion: getting started"
+    },
+    {
+        "text": "Quote: Life is what happens when youre busy | Author: John Lennon | Source: Beautiful Boy | Completion: making other plans"
+    },
+    {
+        "text": "Quote: Strive not to be a success, but rather to be | Author: Albert Einstein | Source: Personal Philosophy | Completion: of value"
+    },
+    {
+        "text": "Quote: A person who never made a mistake never | Author: Albert Einstein | Source: Attributed | Completion: tried anything new"
+    },
+    {
+        "text": "Quote: You miss 100% of the shots you | Author: Wayne Gretzky | Source: Attributed | Completion: dont take"
+    },
+    {
+        "text": "Quote: The future belongs to those who believe in | Author: Eleanor Roosevelt | Source: Attributed | Completion: the beauty of their dreams"
+    },
+    {
+        "text": "Quote: Believe you can and | Author: Theodore Roosevelt | Source: Attributed | Completion: youre halfway there"
+    },
+    {
+        "text": "Quote: It is not the mountain we conquer but | Author: Sir Edmund Hillary | Source: Attributed | Completion: ourselves"
+    },
+    {
+        "text": "Quote: Whether you think you can, or you think you cant— | Author: Henry Ford | Source: Attributed | Completion: youre right"
+    },
+    {
+        "text": "Quote: Perfection is not attainable, but if we chase perfection we can | Author: Vince Lombardi | Source: Coaching Mantras | Completion: catch excellence"
+    },
+    {
+        "text": "Quote: If you want to lift yourself up, | Author: Booker T Washington | Source: Attributed | Completion: lift up someone else"
+    },
+    {
+        "text": "Quote: Injustice anywhere is a | Author: Martin Luther King Jr | Source: Letter from Birmingham Jail | Completion: threat to justice everywhere"
+    },
+    {
+        "text": "Quote: Two roads diverged in a wood, and I—I took the one | Author: Robert Frost | Source: The Road Not Taken | Completion: less traveled by"
+    },
+    {
+        "text": "Quote: To handle yourself, use your head; to handle others, | Author: Eleanor Roosevelt | Source: Attributed | Completion: use your heart"
+    },
+    {
+        "text": "Quote: Everything has beauty, but not everyone | Author: Confucius | Source: Attributed | Completion: sees it"
+    },
+    {
+        "text": "Quote: If you change the way you look at things, | Author: Wayne Dyer | Source: Attributed | Completion: the things you look at change"
+    },
+    {
+        "text": "Quote: The best time to plant a tree was 20 years ago The second best time is | Author: Chinese Proverb | Source: Folk Wisdom | Completion: now"
+    },
+    {
+        "text": "Quote: Change your thoughts and you | Author: Norman Vincent Peale | Source: Attributed | Completion: change your world"
+    },
+    {
+        "text": "Quote: Happiness is not something ready made It comes from | Author: Dalai Lama | Source: Attributed | Completion: your own actions"
+    },
+    {
+        "text": "Quote: It is during our darkest moments that we must | Author: Aristotle Onassis | Source: Attributed | Completion: focus to see the light"
+    },
+    {
+        "text": "Quote: Dont judge each day by the harvest you reap but by | Author: Robert Louis Stevenson | Source: Attributed | Completion: the seeds that you plant"
+    },
+    {
+        "text": "Quote: An unexamined life is not | Author: Socrates | Source: Apology | Completion: worth living"
+    },
+    {
+        "text": "Quote: The only true wisdom is in knowing | Author: Socrates | Source: Attributed | Completion: you know nothing"
+    },
+    {
+        "text": "Quote: Knowing yourself is the beginning of | Author: Aristotle | Source: Attributed | Completion: all wisdom"
+    },
+    {
+        "text": "Quote: Quality is not an act, it is | Author: Aristotle | Source: Attributed | Completion: a habit"
+    },
+    {
+        "text": "Quote: Great minds discuss ideas; average minds discuss events; small minds | Author: Eleanor Roosevelt | Source: Attributed | Completion: discuss people"
+    },
+    {
+        "text": "Quote: The only person you are destined to become is the person you | Author: Ralph Waldo Emerson | Source: Attributed | Completion: decide to be"
+    },
+    {
+        "text": "Quote: To thine own self | Author: William Shakespeare | Source: Hamlet | Completion: be true"
+    },
+    {
+        "text": "Quote: The better part of valor is | Author: William Shakespeare | Source: Henry IV | Completion: discretion"
+    },
+    {
+        "text": "Quote: All that glitters is | Author: William Shakespeare | Source: The Merchant of Venice | Completion: not gold"
+    },
+    {
+        "text": "Quote: Cowards die many times before | Author: William Shakespeare | Source: Julius Caesar | Completion: their deaths"
+    },
+    {
+        "text": "Quote: Parting is such sweet | Author: William Shakespeare | Source: Romeo and Juliet | Completion: sorrow"
+    },
+    {
+        "text": "Quote: The world is a stage, and all the men and women | Author: William Shakespeare | Source: As You Like It | Completion: merely players"
+    },
+    {
+        "text": "Quote: Whatever is worth doing at all is | Author: Lord Chesterfield | Source: Letters to His Son | Completion: worth doing well"
+    },
+    {
+        "text": "Quote: Life is 10% what happens to us and 90% | Author: Charles R Swindoll | Source: Attributed | Completion: how we react to it"
+    },
+    {
+        "text": "Quote: The mind is everything What you think | Author: Buddha | Source: Attributed | Completion: you become"
+    },
+    {
+        "text": "Quote: An investment in knowledge pays | Author: Benjamin Franklin | Source: Way to Wealth | Completion: the best interest"
+    },
+    {
+        "text": "Quote: Tell me and I forget Teach me and I remember Involve me and | Author: Benjamin Franklin | Source: Attributed | Completion: I learn"
+    },
+    {
+        "text": "Quote: By failing to prepare, you are | Author: Benjamin Franklin | Source: Attributed | Completion: preparing to fail"
+    },
+    {
+        "text": "Quote: Genius is one percent inspiration and | Author: Thomas Edison | Source: Harpers Monthly | Completion: ninety-nine percent perspiration"
+    },
+    {
+        "text": "Quote: I have not failed Ive just found 10,000 ways | Author: Thomas Edison | Source: Attributed | Completion: that wont work"
+    },
+    {
+        "text": "Quote: Our greatest weakness lies in giving up The most certain way to succeed is | Author: Thomas Edison | Source: Attributed | Completion: always to try just one more time"
+    },
+    {
+        "text": "Quote: If you want to live a happy life, tie it to a goal, not to | Author: Albert Einstein | Source: Attributed | Completion: people or things"
+    },
+    {
+        "text": "Quote: Life is like riding a bicycle To keep your balance, you must | Author: Albert Einstein | Source: Letter to his son | Completion: keep moving"
+    },
+    {
+        "text": "Quote: Logic will get you from A to B Imagination will | Author: Albert Einstein | Source: Attributed | Completion: take you everywhere"
+    },
+    {
+        "text": "Quote: A man who stands for nothing will | Author: Malcolm X | Source: Attributed | Completion: fall for anything"
+    },
+    {
+        "text": "Quote: Education is the most powerful weapon which you can use to | Author: Nelson Mandela | Source: 2003 Speech | Completion: change the world"
+    },
+    {
+        "text": "Quote: The greatest glory in living lies not in never falling, but in | Author: Nelson Mandela | Source: Attributed | Completion: rising every time we fall"
+    },
+    {
+        "text": "Quote: It is not in the stars to hold our destiny but | Author: William Shakespeare | Source: Julius Caesar | Completion: in ourselves"
+    },
+    {
+        "text": "Quote: Float like a butterfly, | Author: Muhammad Ali | Source: 1964 Interview | Completion: sting like a bee"
+    },
+    {
+        "text": "Quote: Dont count the days, | Author: Muhammad Ali | Source: Attributed | Completion: make the days count"
+    },
+    {
+        "text": "Quote: Service to others is the rent you pay for | Author: Muhammad Ali | Source: Attributed | Completion: your room here on earth"
+    },
+    {
+        "text": "Quote: Stay hungry, | Author: Steve Jobs | Source: Whole Earth Catalog | Completion: stay foolish"
+    },
+    {
+        "text": "Quote: Your time is limited, so dont waste it | Author: Steve Jobs | Source: Stanford Commencement | Completion: living someone elses life"
+    },
+    {
+        "text": "Quote: Have the courage to follow your heart and intuition They somehow | Author: Steve Jobs | Source: Stanford Commencement | Completion: already know what you truly want to become"
+    },
+    {
+        "text": "Quote: Innovation distinguishes between a | Author: Steve Jobs | Source: The Innovation Secrets | Completion: leader and a follower"
+    },
+    {
+        "text": "Quote: I would rather die on my feet than | Author: Emiliano Zapata | Source: Attributed | Completion: live on my knees"
+    },
+    {
+        "text": "Quote: In the middle of every difficulty lies | Author: Albert Einstein | Source: Attributed | Completion: opportunity"
+    },
+    {
+        "text": "Quote: Not everything that is faced can be changed, but nothing can be changed until | Author: James Baldwin | Source: The New York Times | Completion: it is faced"
+    },
+    {
+        "text": "Quote: The only thing standing between you and your goal is the story you | Author: Jordan Belfort | Source: Attributed | Completion: keep telling yourself as to why you cant achieve it"
+    },
+    {
+        "text": "Quote: Whatever the mind can conceive and believe, | Author: Napoleon Hill | Source: Think and Grow Rich | Completion: it can achieve"
+    },
+    {
+        "text": "Quote: If you cant fly then run, if you cant run then walk, if you cant walk then crawl, but | Author: Martin Luther King Jr | Source: Spelman College Speech | Completion: whatever you do you have to keep moving forward"
+    },
+    {
+        "text": "Quote: The time is always right to | Author: Martin Luther King Jr | Source: Oberlin College | Completion: do what is right"
+    },
+    {
+        "text": "Quote: Our lives begin to end the day we become | Author: Martin Luther King Jr | Source: 1965 Speech | Completion: silent about things that matter"
+    },
+    {
+        "text": "Quote: Success is walking from failure to failure with no | Author: Winston Churchill | Source: Attributed | Completion: loss of enthusiasm"
+    },
+    {
+        "text": "Quote: Continuous effort—not strength or intelligence—is the key to | Author: Winston Churchill | Source: Attributed | Completion: unlocking our potential"
+    },
+    {
+        "text": "Quote: We make a living by what we get, but we make a | Author: Winston Churchill | Source: Attributed | Completion: life by what we give"
+    },
+    {
+        "text": "Quote: You only live once, but if you do it right, | Author: Mae West | Source: Attributed | Completion: once is enough"
+    },
+    {
+        "text": "Quote: To be great is to be | Author: Ralph Waldo Emerson | Source: Self-Reliance | Completion: misunderstood"
+    },
+    {
+        "text": "Quote: Nothing is at last sacred but | Author: Ralph Waldo Emerson | Source: Self-Reliance | Completion: the integrity of your own mind"
+    },
+    {
+        "text": "Quote: The purpose of life is not to be happy It is to be useful, to be honorable, to be compassionate, to have it | Author: Ralph Waldo Emerson | Source: Attributed | Completion: make some difference that you have lived and lived well"
+    },
+    {
+        "text": "Quote: Always remember that you are absolutely unique Just like | Author: Margaret Mead | Source: Attributed | Completion: everyone else"
+    },
+    {
+        "text": "Quote: Do what you can, with what you have, | Author: Theodore Roosevelt | Source: Autobiography | Completion: where you are"
+    },
+    {
+        "text": "Quote: It is hard to fail, but it is worse never to have | Author: Theodore Roosevelt | Source: The Strenuous Life | Completion: tried to succeed"
+    },
+    {
+        "text": "Quote: Speak softly and | Author: Theodore Roosevelt | Source: Letter to Henry Sprague | Completion: carry a big stick"
+    },
+    {
+        "text": "Quote: The man who does not read has no advantage over | Author: Mark Twain | Source: Attributed | Completion: the man who cannot read"
+    },
+    {
+        "text": "Quote: Kindness is the language which the deaf can hear and | Author: Mark Twain | Source: Attributed | Completion: the blind can see"
+    },
+    {
+        "text": "Quote: Courage is resistance to fear, mastery of fear—not | Author: Mark Twain | Source: Puddnhead Wilson | Completion: absence of fear"
+    },
+    {
+        "text": "Quote: The two most important days in your life are the day you are born and | Author: Mark Twain | Source: Attributed | Completion: the day you find out why"
+    },
+    {
+        "text": "Quote: Travel is fatal to | Author: Mark Twain | Source: The Innocents Abroad | Completion: prejudice, bigotry, and narrow-mindedness"
+    },
+    {
+        "text": "Quote: I have never let my schooling interfere with | Author: Mark Twain | Source: Attributed | Completion: my education"
+    },
+    {
+        "text": "Quote: A lie can travel half way around the world while the truth is | Author: Mark Twain | Source: Attributed | Completion: putting on its shoes"
+    },
+    {
+        "text": "Quote: What lies behind us and what lies before us are tiny matters compared to | Author: Ralph Waldo Emerson | Source: Attributed | Completion: what lies within us"
+    },
+    {
+        "text": "Quote: You cannot shake hands with a | Author: Indira Gandhi | Source: 1982 Interview | Completion: clenched fist"
+    },
+    {
+        "text": "Quote: The future starts today, not | Author: Pope John Paul II | Source: Attributed | Completion: tomorrow"
+    },
+    {
+        "text": "Quote: Do what you feel in your heart to be right—for youll be | Author: Eleanor Roosevelt | Source: Attributed | Completion: criticized anyway"
+    },
+    {
+        "text": "Quote: The way to get started is to quit talking and | Author: Walt Disney | Source: Attributed | Completion: begin doing"
+    },
+    {
+        "text": "Quote: If you can dream it, | Author: Walt Disney | Source: Attributed | Completion: you can do it"
+    },
+    {
+        "text": "Quote: Its kind of fun to do the | Author: Walt Disney | Source: Attributed | Completion: impossible"
+    },
+    {
+        "text": "Quote: The more you like yourself, the less you are like anyone else, which makes you | Author: Walt Disney | Source: Attributed | Completion: unique"
+    },
+    {
+        "text": "Quote: In three words I can sum up everything Ive learned about life: | Author: Robert Frost | Source: Attributed | Completion: it goes on"
+    },
+    {
+        "text": "Quote: Freedom lies in being | Author: Robert Frost | Source: Attributed | Completion: bold"
+    },
+    {
+        "text": "Quote: A bank is a place that will lend you money if you can | Author: Robert Frost | Source: Attributed | Completion: prove that you dont need it"
+    },
+    {
+        "text": "Quote: Try to be a rainbow in | Author: Maya Angelou | Source: Letter to My Daughter | Completion: someones cloud"
+    },
+    {
+        "text": "Quote: Ive learned that people will forget what you said, people will forget what you did, but people will never forget | Author: Maya Angelou | Source: Attributed | Completion: how you made them feel"
+    },
+    {
+        "text": "Quote: If you dont like something, change it If you cant change it, | Author: Maya Angelou | Source: Attributed | Completion: change your attitude"
+    },
+    {
+        "text": "Quote: Success is liking yourself, liking what you do, and | Author: Maya Angelou | Source: Attributed | Completion: liking how you do it"
+    },
+    {
+        "text": "Quote: Nothing will work unless | Author: Maya Angelou | Source: Attributed | Completion: you do"
+    },
+    {
+        "text": "Quote: You may encounter many defeats, but you must not | Author: Maya Angelou | Source: Attributed | Completion: be defeated"
+    },
+    {
+        "text": "Quote: Love is the only force capable of | Author: Martin Luther King Jr | Source: Loving Your Enemies | Completion: transforming an enemy into a friend"
+    },
+    {
+        "text": "Quote: I have decided to stick with love Hate is | Author: Martin Luther King Jr | Source: 1967 Speech | Completion: too great a burden to bear"
+    },
+    {
+        "text": "Quote: The quality of mercy is | Author: William Shakespeare | Source: The Merchant of Venice | Completion: not strained"
+    },
+    {
+        "text": "Quote: To be, or not to be: that is | Author: William Shakespeare | Source: Hamlet | Completion: the question"
+    },
+    {
+        "text": "Quote: Brevity is the | Author: William Shakespeare | Source: Hamlet | Completion: soul of wit"
+    },
+    {
+        "text": "Quote: There is nothing either good or bad, but | Author: William Shakespeare | Source: Hamlet | Completion: thinking makes it so"
+    },
+    {
+        "text": "Quote: Neither a borrower nor a | Author: William Shakespeare | Source: Hamlet | Completion: lender be"
+    },
+    {
+        "text": "Quote: Though this be madness, yet there is | Author: William Shakespeare | Source: Hamlet | Completion: method int"
+    },
+    {
+        "text": "Quote: Friends, Romans, countrymen, | Author: William Shakespeare | Source: Julius Caesar | Completion: lend me your ears"
+    },
+    {
+        "text": "Quote: The fault, dear Brutus, is not in our stars, but in | Author: William Shakespeare | Source: Julius Caesar | Completion: ourselves, that we are underlings"
+    },
+    {
+        "text": "Quote: Et tu, | Author: William Shakespeare | Source: Julius Caesar | Completion: Brute?"
+    },
+    {
+        "text": "Quote: A horse! a horse! my | Author: William Shakespeare | Source: Richard III | Completion: kingdom for a horse!"
+    },
+    {
+        "text": "Quote: Double, double toil and trouble; | Author: William Shakespeare | Source: Macbeth | Completion: Fire burn and caldron bubble"
+    },
+    {
+        "text": "Quote: Out, damned spot! out, | Author: William Shakespeare | Source: Macbeth | Completion: I say!"
+    },
+    {
+        "text": "Quote: Lifes but a walking shadow, a poor player that struts and frets his hour upon the stage and then is | Author: William Shakespeare | Source: Macbeth | Completion: heard no more"
+    },
+    {
+        "text": "Quote: It is a tale told by an idiot, full of sound and fury, | Author: William Shakespeare | Source: Macbeth | Completion: signifying nothing"
+    },
+    {
+        "text": "Quote: If music be the food of love, | Author: William Shakespeare | Source: Twelfth Night | Completion: play on"
+    },
+    {
+        "text": "Quote: Some are born great, some achieve greatness, and some have | Author: William Shakespeare | Source: Twelfth Night | Completion: greatness thrust upon em"
+    },
+    {
+        "text": "Quote: Uneasy lies the head that | Author: William Shakespeare | Source: Henry IV Part 2 | Completion: wears a crown"
+    },
+    {
+        "text": "Quote: The course of true love never did | Author: William Shakespeare | Source: A Midsummer Nights Dream | Completion: run smooth"
+    },
+    {
+        "text": "Quote: Lord, what fools these | Author: William Shakespeare | Source: A Midsummer Nights Dream | Completion: mortals be!"
+    },
+    {
+        "text": "Quote: Alls well that | Author: William Shakespeare | Source: Alls Well That Ends Well | Completion: ends well"
+    },
+    {
+        "text": "Quote: Good night, good night! parting is such | Author: William Shakespeare | Source: Romeo and Juliet | Completion: sweet sorrow"
+    },
+    {
+        "text": "Quote: Whats in a name? that which we call a rose by any other name would | Author: William Shakespeare | Source: Romeo and Juliet | Completion: smell as sweet"
+    },
+    {
+        "text": "Quote: Wisely and slow; they | Author: William Shakespeare | Source: Romeo and Juliet | Completion: stumble that run fast"
+    },
+    {
+        "text": "Quote: But, soft! what light through yonder window breaks? It is the east, and | Author: William Shakespeare | Source: Romeo and Juliet | Completion: Juliet is the sun"
+    },
+    {
+        "text": "Quote: Romeo, Romeo! wherefore | Author: William Shakespeare | Source: Romeo and Juliet | Completion: art thou Romeo?"
+    },
+    {
+        "text": "Quote: O, then, I see Queen Mab hath | Author: William Shakespeare | Source: Romeo and Juliet | Completion: been with you"
+    },
+    {
+        "text": "Quote: The happiness of your life depends upon the | Author: Marcus Aurelius | Source: Meditations | Completion: quality of your thoughts"
+    },
+    {
+        "text": "Quote: Waste no more time arguing what a good man should be | Author: Marcus Aurelius | Source: Meditations | Completion: Be one"
+    },
+    {
+        "text": "Quote: You have power over your mind—not outside events Realize this, and | Author: Marcus Aurelius | Source: Meditations | Completion: you will find strength"
+    },
+    {
+        "text": "Quote: The best revenge is to be unlike | Author: Marcus Aurelius | Source: Meditations | Completion: him who performed the injury"
+    },
+    {
+        "text": "Quote: Very little is needed to make a happy life; it is all within yourself, in | Author: Marcus Aurelius | Source: Meditations | Completion: your way of thinking"
+    },
+    {
+        "text": "Quote: Accept the things to which fate binds you, and love the people with whom fate brings you together, but | Author: Marcus Aurelius | Source: Meditations | Completion: do so with all your heart"
+    },
+    {
+        "text": "Quote: He who fears death will never do anything | Author: Seneca | Source: On the Shortness of Life | Completion: worth of a man who is alive"
+    },
+    {
+        "text": "Quote: Luck is what happens when | Author: Seneca | Source: Attributed | Completion: preparation meets opportunity"
+    },
+    {
+        "text": "Quote: We suffer more often in imagination | Author: Seneca | Source: Moral Letters to Lucilius | Completion: than in reality"
+    },
+    {
+        "text": "Quote: Difficulties strengthen the mind, as | Author: Seneca | Source: Attributed | Completion: labor does the body"
+    },
+    {
+        "text": "Quote: As long as you live, keep | Author: Seneca | Source: Attributed | Completion: learning how to live"
+    },
+    {
+        "text": "Quote: If a man knows not to which port he sails, no | Author: Seneca | Source: Attributed | Completion: wind is favorable"
+    },
+    {
+        "text": "Quote: It is not that we have a short time to live, but that we | Author: Seneca | Source: On the Shortness of Life | Completion: waste much of it"
+    },
+    {
+        "text": "Quote: Wealth is the slave of a wise man and the | Author: Seneca | Source: De Vita Beata | Completion: master of a fool"
+    },
+    {
+        "text": "Quote: He is a wise man who does not grieve for the things which he has not, but | Author: Epictetus | Source: Fragments | Completion: rejoices for those which he has"
+    },
+    {
+        "text": "Quote: Its not what happens to us, but | Author: Epictetus | Source: Enchiridion | Completion: how we react to it that matters"
+    },
+    {
+        "text": "Quote: First learn the meaning of what you say, and then | Author: Epictetus | Source: Attributed | Completion: speak"
+    },
+    {
+        "text": "Quote: No man is free who is not | Author: Epictetus | Source: Attributed | Completion: master of himself"
+    },
+    {
+        "text": "Quote: Men are disturbed not by things, but by the | Author: Epictetus | Source: Enchiridion | Completion: view which they take of them"
+    },
+    {
+        "text": "Quote: If you want to improve, be content to be thought | Author: Epictetus | Source: Enchiridion | Completion: foolish and stupid"
+    },
+    {
+        "text": "Quote: Small-minded people blame others Average people blame themselves The wise see all blame as | Author: Epictetus | Source: Enchiridion | Completion: foolishness"
+    },
+    {
+        "text": "Quote: Freedom is the only worthy goal in life It is won by | Author: Epictetus | Source: Attributed | Completion: disregarding things that lie beyond our control"
+    },
+    {
+        "text": "Quote: Silence is a | Author: Confucius | Source: Analects | Completion: true friend who never betrays"
+    },
+    {
+        "text": "Quote: Our greatest glory is not in never falling, but in | Author: Confucius | Source: Analects | Completion: rising every time we fall"
+    },
+    {
+        "text": "Quote: It does not matter how slowly you go as long as | Author: Confucius | Source: Analects | Completion: you do not stop"
+    },
+    {
+        "text": "Quote: Life is really simple, but we insist on | Author: Confucius | Source: Analects | Completion: making it complicated"
+    },
+    {
+        "text": "Quote: The man who moves a mountain begins by | Author: Confucius | Source: Analects | Completion: carrying away small stones"
+    },
+    {
+        "text": "Quote: When it is obvious that the goals cannot be reached, dont adjust the goals, | Author: Confucius | Source: Analects | Completion: adjust the action steps"
+    },
+    {
+        "text": "Quote: To be wronged is nothing, unless you | Author: Confucius | Source: Analects | Completion: continue to remember it"
+    },
+    {
+        "text": "Quote: Wheresoever you go, go with | Author: Confucius | Source: Analects | Completion: all your heart"
+    },
+    {
+        "text": "Quote: He who speaks without modesty will find it | Author: Confucius | Source: Analects | Completion: difficult to make his words good"
+    },
+    {
+        "text": "Quote: Nature does not hurry, yet | Author: Lao Tzu | Source: Tao Te Ching | Completion: everything is accomplished"
+    },
+    {
+        "text": "Quote: Knowing others is intelligence; knowing | Author: Lao Tzu | Source: Tao Te Ching | Completion: yourself is true wisdom"
+    },
+    {
+        "text": "Quote: Mastering others is strength; mastering | Author: Lao Tzu | Source: Tao Te Ching | Completion: yourself is true power"
+    },
+    {
+        "text": "Quote: A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: | Author: Lao Tzu | Source: Tao Te Ching | Completion: We did it ourselves"
+    },
+    {
+        "text": "Quote: The flame that burns twice as bright burns | Author: Lao Tzu | Source: Attributed | Completion: half as long"
+    },
+    {
+        "text": "Quote: Great acts are made up of | Author: Lao Tzu | Source: Tao Te Ching | Completion: small deeds"
+    },
+    {
+        "text": "Quote: If you are depressed you are living in the past If you are anxious you are living in the future If you are at peace you are | Author: Lao Tzu | Source: Attributed | Completion: living in the present"
+    },
+    {
+        "text": "Quote: Be content with what you have; rejoice in the way things are When you realize there is nothing lacking, | Author: Lao Tzu | Source: Tao Te Ching | Completion: the whole world belongs to you"
+    },
+    {
+        "text": "Quote: The wise man does not lay up his own treasures The more he gives to others, the more | Author: Lao Tzu | Source: Tao Te Ching | Completion: he has for his own"
+    },
+    {
+        "text": "Quote: To the mind that is still, | Author: Lao Tzu | Source: Attributed | Completion: the whole universe surrenders"
+    },
+    {
+        "text": "Quote: He who knows, does not speak He who speaks, | Author: Lao Tzu | Source: Tao Te Ching | Completion: does not know"
+    },
+    {
+        "text": "Quote: The truth is not always beautiful, nor | Author: Lao Tzu | Source: Tao Te Ching | Completion: beautiful words the truth"
+    },
+    {
+        "text": "Quote: Kindness in words creates confidence Kindness in thinking creates profoundness Kindness in giving creates | Author: Lao Tzu | Source: Tao Te Ching | Completion: love"
+    },
+    {
+        "text": "Quote: Do the difficult things while they are easy and do the | Author: Lao Tzu | Source: Tao Te Ching | Completion: great things while they are small"
+    },
+    {
+        "text": "Quote: Man conquers the world by | Author: Lao Tzu | Source: Tao Te Ching | Completion: subduing himself"
+    },
+    {
+        "text": "Quote: When I let go of what I am, | Author: Lao Tzu | Source: Tao Te Ching | Completion: I become what I might be"
+    },
+    {
+        "text": "Quote: An ant on the move does more than a | Author: Lao Tzu | Source: Attributed | Completion: dozing ox"
+    },
+    {
+        "text": "Quote: The journey of a thousand miles begins with a | Author: Lao Tzu | Source: Tao Te Ching | Completion: single step"
+    },
+    {
+        "text": "Quote: Those who know do not predict Those who predict | Author: Lao Tzu | Source: Tao Te Ching | Completion: do not know"
+    },
+    {
+        "text": "Quote: The soul is dyed with the | Author: Marcus Aurelius | Source: Meditations | Completion: color of its thoughts"
+    },
+    {
+        "text": "Quote: Our life is what our | Author: Marcus Aurelius | Source: Meditations | Completion: thoughts make it"
+    },
+    {
+        "text": "Quote: Look within Within is the fountain of good, and it will ever | Author: Marcus Aurelius | Source: Meditations | Completion: bubble up, if thou wilt ever dig"
+    },
+    {
+        "text": "Quote: Because a thing seems difficult for you, do not think it | Author: Marcus Aurelius | Source: Meditations | Completion: impossible for anyone to accomplish"
+    },
+    {
+        "text": "Quote: Everything we hear is an opinion, not a fact Everything we see is a perspective, not | Author: Marcus Aurelius | Source: Meditations | Completion: the truth"
+    },
+    {
+        "text": "Quote: Do every act of your life as though it were the | Author: Marcus Aurelius | Source: Meditations | Completion: last act of your life"
+    },
+    {
+        "text": "Quote: Think of yourself as dead You have lived your life Now, take whats left and | Author: Marcus Aurelius | Source: Meditations | Completion: live it properly"
+    },
+    {
+        "text": "Quote: If it is not right, do not do it; if it is not true, | Author: Marcus Aurelius | Source: Meditations | Completion: do not say it"
+    },
+    {
+        "text": "Quote: Death smiles at us all, but all a man can do is | Author: Marcus Aurelius | Source: Attributed | Completion: smile back"
+    },
+    {
+        "text": "Quote: The object of life is not to be on the side of the majority, but to | Author: Marcus Aurelius | Source: Meditations | Completion: escape finding oneself in the ranks of the insane"
+    },
+    {
+        "text": "Quote: Loss is nothing else but | Author: Marcus Aurelius | Source: Meditations | Completion: change, and change is Natures delight"
+    },
+    {
+        "text": "Quote: The roots of education are bitter, but | Author: Aristotle | Source: Attributed | Completion: the fruit is sweet"
+    },
+    {
+        "text": "Quote: Pleasure in the job puts | Author: Aristotle | Source: Attributed | Completion: perfection in the work"
+    },
+    {
+        "text": "Quote: He who has overcome his fears will truly | Author: Aristotle | Source: Attributed | Completion: be free"
+    },
+    {
+        "text": "Quote: To avoid criticism say nothing, do nothing, | Author: Aristotle | Source: Attributed | Completion: be nothing"
+    },
+    {
+        "text": "Quote: The educated differ from the uneducated as much as the | Author: Aristotle | Source: Attributed | Completion: living from the dead"
+    },
+    {
+        "text": "Quote: Patience is bitter, but its | Author: Aristotle | Source: Attributed | Completion: fruit is sweet"
+    },
+    {
+        "text": "Quote: At the intersection of your talents and the needs of the world lies | Author: Aristotle | Source: Attributed | Completion: your calling"
+    },
+    {
+        "text": "Quote: The more you know, the more you realize | Author: Aristotle | Source: Attributed | Completion: you dont know"
+    },
+    {
+        "text": "Quote: Man is by nature a | Author: Aristotle | Source: Politics | Completion: social animal"
+    },
+    {
+        "text": "Quote: No great mind has ever existed without a | Author: Aristotle | Source: Attributed | Completion: touch of madness"
+    },
+    {
+        "text": "Quote: The weak are always anxious for justice and equality The strong | Author: Aristotle | Source: Politics | Completion: pay no heed to either"
+    },
+    {
+        "text": "Quote: Excellence is never an accident It is always the result of high intention, sincere effort, and intelligent execution; it represents | Author: Aristotle | Source: Attributed | Completion: the wise choice of many alternatives"
+    },
+    {
+        "text": "Quote: Courage is the first of human qualities because it is the quality which | Author: Aristotle | Source: Attributed | Completion: guarantees the others"
+    },
+    {
+        "text": "Quote: The one exclusive sign of thorough knowledge is the | Author: Aristotle | Source: Attributed | Completion: power of teaching"
+    },
+    {
+        "text": "Quote: A friend to all is a | Author: Aristotle | Source: Attributed | Completion: friend to none"
+    },
+    {
+        "text": "Quote: Wishing to be friends is quick work, but | Author: Aristotle | Source: Ethics | Completion: friendship is a slow ripening fruit"
+    },
+    {
+        "text": "Quote: Wise men speak because they have something to say; Fools because | Author: Plato | Source: Attributed | Completion: they have to say something"
+    },
+    {
+        "text": "Quote: The first and greatest victory is to | Author: Plato | Source: Laws | Completion: conquer yourself"
+    },
+    {
+        "text": "Quote: Better a little which is well done, than | Author: Plato | Source: Attributed | Completion: a great deal imperfectly"
+    },
+    {
+        "text": "Quote: Human behavior flows from three main sources: desire, emotion, and | Author: Plato | Source: Attributed | Completion: knowledge"
+    },
+    {
+        "text": "Quote: The price good men pay for indifference to public affairs is to | Author: Plato | Source: Republic | Completion: be governed by evil men"
+    },
+    {
+        "text": "Quote: At the touch of love everyone becomes | Author: Plato | Source: Symposium | Completion: a poet"
+    },
+    {
+        "text": "Quote: Ignorance, the root and stem of | Author: Plato | Source: Republic | Completion: every evil"
+    },
+    {
+        "text": "Quote: There are two things a person should never be angry at: what they can help, | Author: Plato | Source: Attributed | Completion: and what they cannot"
+    },
+    {
+        "text": "Quote: Music gives a soul to the universe, wings to the mind, flight to the imagination and | Author: Plato | Source: Attributed | Completion: life to everything"
+    },
+    {
+        "text": "Quote: Character is simply | Author: Plutarch | Source: Attributed | Completion: habit long continued"
+    },
+    {
+        "text": "Quote: The mind is not a vessel to be filled, but a | Author: Plutarch | Source: On Listening to Lectures | Completion: fire to be kindled"
+    },
+    {
+        "text": "Quote: Know how to listen, and you will | Author: Plutarch | Source: Attributed | Completion: profit even from those who talk badly"
+    },
+    {
+        "text": "Quote: What we achieve inwardly will | Author: Plutarch | Source: Attributed | Completion: change outer reality"
+    },
+    {
+        "text": "Quote: To be rich is not the end-all and be-all To be | Author: Plutarch | Source: Attributed | Completion: content is"
+    },
+    {
+        "text": "Quote: Be kind, for everyone you meet is | Author: Plato | Source: Attributed | Completion: fighting a harder battle"
+    },
+    {
+        "text": "Quote: Wonder is the feeling of a philosopher, and philosophy begins | Author: Plato | Source: Theaetetus | Completion: in wonder"
+    },
+    {
+        "text": "Quote: Excess of liberty, whether it lies in nations or individuals, seems only to | Author: Plato | Source: Republic | Completion: pass into excess of slavery"
+    },
+    {
+        "text": "Quote: The direction in which education starts a man will | Author: Plato | Source: Republic | Completion: determine his future in life"
+    },
+    {
+        "text": "Quote: Knowledge without justice ought to be called | Author: Plato | Source: Attributed | Completion: cunning rather than wisdom"
+    },
+    {
+        "text": "Quote: A dog is a | Author: Plato | Source: Republic | Completion: true philosopher"
+    },
+    {
+        "text": "Quote: He was a wise man who invented | Author: Plato | Source: Attributed | Completion: beer"
+    },
+    {
+        "text": "Quote: Necessity, the mother of | Author: Plato | Source: Republic | Completion: invention"
+    },
+    {
+        "text": "Quote: Beauty lies in the eyes of the | Author: Plato | Source: Attributed | Completion: beholder"
+    },
+    {
+        "text": "Quote: Nature and Natures laws lay hid in night: God said, Let Newton be! | Author: Alexander Pope | Source: Epitaphs | Completion: and all was light"
+    },
+    {
+        "text": "Quote: If I have seen further it is by standing on the | Author: Isaac Newton | Source: Letter to Robert Hooke | Completion: shoulders of Giants"
+    },
+    {
+        "text": "Quote: I can calculate the motion of heavenly bodies, but not the | Author: Isaac Newton | Source: Attributed | Completion: madness of people"
+    },
+    {
+        "text": "Quote: Truth is ever to be found in simplicity, and not in the | Author: Isaac Newton | Source: Attributed | Completion: multiplicity and confusion of things"
+    },
+    {
+        "text": "Quote: To every action there is always opposed an | Author: Isaac Newton | Source: Principia Mathematica | Completion: equal reaction"
+    },
+    {
+        "text": "Quote: He who loves practice without theory is like the sailor who boards ship without a rudder and compass and never knows | Author: Leonardo da Vinci | Source: Notebooks | Completion: where he may cast"
+    },
+    {
+        "text": "Quote: Simplicity is the ultimate | Author: Leonardo da Vinci | Source: Attributed | Completion: sophistication"
+    },
+    {
+        "text": "Quote: Iron rusts from disuse; stagnant water loses its purity even so does inaction | Author: Leonardo da Vinci | Source: Notebooks | Completion: sap the vigors of the mind"
+    },
+    {
+        "text": "Quote: The noblest pleasure is the | Author: Leonardo da Vinci | Source: Attributed | Completion: joy of understanding"
+    },
+    {
+        "text": "Quote: Learning never | Author: Leonardo da Vinci | Source: Attributed | Completion: exhausts the mind"
+    },
+    {
+        "text": "Quote: Where the spirit does not work with the hand, there is | Author: Leonardo da Vinci | Source: Attributed | Completion: no art"
+    },
+    {
+        "text": "Quote: All our knowledge has its origins in | Author: Leonardo da Vinci | Source: Notebooks | Completion: our perceptions"
+    },
+    {
+        "text": "Quote: I love those who can smile in trouble, who can gather strength from distress, and grow brave by | Author: Leonardo da Vinci | Source: Attributed | Completion: reflection"
+    },
+    {
+        "text": "Quote: In science the credit goes to the man who convinces the world, not to the man to whom | Author: Francis Darwin | Source: Eugenics Review | Completion: the idea first occurs"
+    },
+    {
+        "text": "Quote: Nothing in life is to be feared, it is only to be understood Now is the time to understand more, so that we may | Author: Marie Curie | Source: Attributed | Completion: fear less"
+    },
+    {
+        "text": "Quote: Be less curious about people and more | Author: Marie Curie | Source: Attributed | Completion: curious about ideas"
+    },
+    {
+        "text": "Quote: I was taught that the way of progress was neither swift nor | Author: Marie Curie | Source: Attributed | Completion: easy"
+    },
+    {
+        "text": "Quote: There are no shortcuts to any place | Author: Beverly Sills | Source: Attributed | Completion: worth going"
+    },
+    {
+        "text": "Quote: The important thing is not to stop questioning Curiosity has its | Author: Albert Einstein | Source: Old Mans Advice to Youth | Completion: own reason for existing"
+    },
+    {
+        "text": "Quote: Anyone who has never made a mistake has never | Author: Albert Einstein | Source: Attributed | Completion: tried anything new"
+    },
+    {
+        "text": "Quote: The measure of intelligence is the | Author: Albert Einstein | Source: Attributed | Completion: ability to change"
+    },
+    {
+        "text": "Quote: Everything should be made as simple as possible, but | Author: Albert Einstein | Source: Attributed | Completion: not simpler"
+    },
+    {
+        "text": "Quote: Science without religion is lame, religion without | Author: Albert Einstein | Source: Science, Philosophy and Religion | Completion: science is blind"
+    },
+    {
+        "text": "Quote: Two things are infinite: the universe and human stupidity; and Im not sure | Author: Albert Einstein | Source: Attributed | Completion: about the universe"
+    },
+    {
+        "text": "Quote: A clever person solves a problem A wise person | Author: Albert Einstein | Source: Attributed | Completion: avoids it"
+    },
+    {
+        "text": "Quote: Great spirits have always encountered violent opposition from | Author: Albert Einstein | Source: Letter to Herbert Samuel | Completion: mediocre minds"
+    },
+    {
+        "text": "Quote: Weakness of attitude becomes | Author: Albert Einstein | Source: Attributed | Completion: weakness of character"
+    },
+    {
+        "text": "Quote: The world is a dangerous place to live; not because of the people who are evil, but because of the people who | Author: Albert Einstein | Source: Attributed | Completion: dont do anything about it"
+    },
+    {
+        "text": "Quote: Man is a reed, the weakest in nature; but he is a | Author: Blaise Pascal | Source: Pensées | Completion: thinking reed"
+    },
+    {
+        "text": "Quote: The heart has its reasons which | Author: Blaise Pascal | Source: Pensées | Completion: reason does not know"
+    },
+    {
+        "text": "Quote: All of humanitys problems stem from mans inability to sit | Author: Blaise Pascal | Source: Pensées | Completion: quietly in a room alone"
+    },
+    {
+        "text": "Quote: Justice without force is impotent; force without | Author: Blaise Pascal | Source: Pensées | Completion: justice is tyrannical"
+    },
+    {
+        "text": "Quote: To think is to say | Author: Alain | Source: Attributed | Completion: no"
+    },
+    {
+        "text": "Quote: Man is born free and everywhere he is in | Author: Jean-Jacques Rousseau | Source: The Social Contract | Completion: chains"
+    },
+    {
+        "text": "Quote: The world of reality has its limits; the world of imagination is | Author: Jean-Jacques Rousseau | Source: Attributed | Completion: boundless"
+    },
+    {
+        "text": "Quote: Patience is bitter, but its fruit is | Author: Jean-Jacques Rousseau | Source: Attributed | Completion: sweet"
+    },
+    {
+        "text": "Quote: Dare to know! Have the courage to use your | Author: Immanuel Kant | Source: What is Enlightenment? | Completion: own understanding"
+    },
+    {
+        "text": "Quote: Act only according to that maxim whereby you can, at the same time, will that it should | Author: Immanuel Kant | Source: Groundwork of the Metaphysics of Morals | Completion: become a universal law"
+    },
+    {
+        "text": "Quote: Morality is not properly the doctrine of how we may make ourselves happy, but how we may | Author: Immanuel Kant | Source: Attributed | Completion: make ourselves worthy of happiness"
+    },
+    {
+        "text": "Quote: Science is organized knowledge Wisdom is | Author: Immanuel Kant | Source: Attributed | Completion: organized life"
+    },
+    {
+        "text": "Quote: Happiness is not an ideal of reason, but of | Author: Immanuel Kant | Source: Groundwork of the Metaphysics of Morals | Completion: imagination"
+    },
+    {
+        "text": "Quote: Man must be disciplined, for he is by nature | Author: Immanuel Kant | Source: Attributed | Completion: raw and wild"
+    },
+    {
+        "text": "Quote: The death of dogma is the | Author: Immanuel Kant | Source: Attributed | Completion: birth of morality"
+    },
+    {
+        "text": "Quote: I have no special talent I am only | Author: Albert Einstein | Source: Letter to Carl Seelig | Completion: passionately curious"
+    },
+    {
+        "text": "Quote: God does not play | Author: Albert Einstein | Source: Letter to Max Born | Completion: dice with the universe"
+    },
+    {
+        "text": "Quote: Knowledge is | Author: Francis Bacon | Source: Meditationes Sacrae | Completion: power"
+    },
+    {
+        "text": "Quote: If a man will begin with certainties, he shall end in doubts; but if he will be content to begin with doubts, he shall | Author: Francis Bacon | Source: The Advancement of Learning | Completion: end in certainties"
+    },
+    {
+        "text": "Quote: The remedy is worse than the | Author: Francis Bacon | Source: Essays | Completion: disease"
+    },
+    {
+        "text": "Quote: A wise man will make more opportunities than | Author: Francis Bacon | Source: Essays | Completion: he finds"
+    },
+    {
+        "text": "Quote: Truth is the daughter of time, not of | Author: Francis Bacon | Source: Attributed | Completion: authority"
+    },
+    {
+        "text": "Quote: In order for the light to shine so brightly, the darkness | Author: Francis Bacon | Source: Attributed | Completion: must be present"
+    },
+    {
+        "text": "Quote: Reading maketh a full man; conference a ready man; and | Author: Francis Bacon | Source: Of Studies | Completion: writing an exact man"
+    },
+    {
+        "text": "Quote: Some books are to be tasted, others to be swallowed, and some few to be | Author: Francis Bacon | Source: Of Studies | Completion: chewed and digested"
+    },
+    {
+        "text": "Quote: He that hath a wife and children hath given | Author: Francis Bacon | Source: Of Marriage and Single Life | Completion: hostages to fortune"
+    },
+    {
+        "text": "Quote: Money is like muck, not good except it be | Author: Francis Bacon | Source: Of Seditions and Troubles | Completion: spread"
+    },
+    {
+        "text": "Quote: Man, being the servant and interpreter of Nature, can do and understand so much and so much only as he has observed in fact or in thought of | Author: Francis Bacon | Source: Novum Organum | Completion: the course of Nature"
+    },
+    {
+        "text": "Quote: Common sense is not so | Author: Voltaire | Source: Philosophical Dictionary | Completion: common"
+    },
+    {
+        "text": "Quote: I detest what you write, but I would give my life to make it possible for you to | Author: Voltaire | Source: Attributed | Completion: continue to write"
+    },
+    {
+        "text": "Quote: Judge a man by his questions rather than | Author: Voltaire | Source: Attributed | Completion: by his answers"
+    },
+    {
+        "text": "Quote: Paradise was made for | Author: Voltaire | Source: Attributed | Completion: tender hearts; hell, for loveless hearts"
+    },
+    {
+        "text": "Quote: The safe way to be wretched is to | Author: Voltaire | Source: Attributed | Completion: be extremely kind"
+    },
+    {
+        "text": "Quote: Every man is guilty of all the good he | Author: Voltaire | Source: Attributed | Completion: did not do"
+    },
+    {
+        "text": "Quote: Appreciation is a wonderful thing: It makes what is excellent in others | Author: Voltaire | Source: Attributed | Completion: belong to us as well"
+    },
+    {
+        "text": "Quote: It is difficult to free fools from the chains they | Author: Voltaire | Source: Attributed | Completion: revere"
+    },
+    {
+        "text": "Quote: Prejudices are what fools use for | Author: Voltaire | Source: Attributed | Completion: reason"
+    },
+    {
+        "text": "Quote: Those who can make you believe absurdities, can make you | Author: Voltaire | Source: Questions sur les Miracles | Completion: commit atrocities"
+    },
+    {
+        "text": "Quote: Is there anyone so wise as to learn by the | Author: Voltaire | Source: Attributed | Completion: experience of others?"
+    },
+    {
+        "text": "Quote: Doubt is not a pleasant condition, but | Author: Voltaire | Source: Letter to Frederick the Great | Completion: certainty is absurd"
+    },
+    {
+        "text": "Quote: The more I read, the more I acquire, the more certain I am that | Author: Voltaire | Source: Attributed | Completion: I know nothing"
+    },
+    {
+        "text": "Quote: Perfect is the enemy of | Author: Voltaire | Source: La Bégueule | Completion: good"
+    },
+    {
+        "text": "Quote: God is a comedian playing to an audience that is | Author: Voltaire | Source: Attributed | Completion: too afraid to laugh"
+    },
+    {
+        "text": "Quote: One day everything will be well, that is our hope; everythings fine today, thats our | Author: Voltaire | Source: Attributed | Completion: illusion"
+    },
+    {
+        "text": "Quote: History is only the register of | Author: Voltaire | Source: LIngénu | Completion: crimes and misfortunes"
+    },
+    {
+        "text": "Quote: To the living we owe respect, but to the dead we owe | Author: Voltaire | Source: Letters | Completion: only the truth"
+    },
+    {
+        "text": "Quote: When it is a question of money, everybody is of | Author: Voltaire | Source: Attributed | Completion: the same religion"
+    },
+    {
+        "text": "Quote: The most important decision you make is to be in a | Author: Voltaire | Source: Attributed | Completion: good mood"
+    },
+    {
+        "text": "Quote: Optimism is the madness of maintaining that everything is right when | Author: Voltaire | Source: Candide | Completion: it is wrong"
+    },
+    {
+        "text": "Quote: Think for yourselves and let others enjoy the privilege to | Author: Voltaire | Source: Attributed | Completion: do so too"
+    },
+    {
+        "text": "Quote: Our wretched species is so made that those who walk on the well-trodden path always | Author: Voltaire | Source: Attributed | Completion: throw stones at those who are showing a new one"
+    },
+    {
+        "text": "Quote: We must cultivate our | Author: Voltaire | Source: Candide | Completion: garden"
+    },
+    {
+        "text": "Quote: Cogito, ergo | Author: René Descartes | Source: Principles of Philosophy | Completion: sum"
+    },
+    {
+        "text": "Quote: The reading of all good books is like a conversation with the finest minds of | Author: René Descartes | Source: Discourse on the Method | Completion: past centuries"
+    },
+    {
+        "text": "Quote: It is not enough to have a good mind; the main thing is to | Author: René Descartes | Source: Discourse on the Method | Completion: use it well"
+    },
+    {
+        "text": "Quote: Except our own thoughts, there is nothing absolutely in | Author: René Descartes | Source: Discourse on the Method | Completion: our power"
+    },
+    {
+        "text": "Quote: In order to seek truth, it is necessary once in the course of our life, to doubt, as far as possible, | Author: René Descartes | Source: Principles of Philosophy | Completion: of all things"
+    },
+    {
+        "text": "Quote: The greatest minds are capable of the greatest vices as well as | Author: René Descartes | Source: Discourse on the Method | Completion: the greatest virtues"
+    },
+    {
+        "text": "Quote: If you would be a real seeker after truth, it is necessary that at least once in your life you doubt, as far as possible, | Author: René Descartes | Source: Attributed | Completion: all things"
+    },
+    {
+        "text": "Quote: I am accustomed to sleep and in my dreams to imagine the same things that lunatics imagine when | Author: René Descartes | Source: Meditations on First Philosophy | Completion: awake"
+    },
+    {
+        "text": "Quote: Each problem that I solved became a rule, which served afterwards to | Author: René Descartes | Source: Attributed | Completion: solve other problems"
+    },
+    {
+        "text": "Quote: Divide each difficulty into as many parts as is feasible and necessary to | Author: René Descartes | Source: Discourse on the Method | Completion: resolve it"
+    },
+    {
+        "text": "Quote: The senses deceive from time to time, and it is prudent never to trust wholly those who | Author: René Descartes | Source: Meditations on First Philosophy | Completion: have deceived us even once"
+    },
+    {
+        "text": "Quote: A state is better governed which has but few laws, and those | Author: René Descartes | Source: Discourse on the Method | Completion: rigidly administered"
+    },
+    {
+        "text": "Quote: Masked, I advance | Author: René Descartes | Source: Private Thoughts | Completion: Larvatus prodeo"
+    },
+    {
+        "text": "Quote: To know what people really think, pay regard to what they do, rather than | Author: René Descartes | Source: Attributed | Completion: what they say"
+    },
+    {
+        "text": "Quote: Truth is the property of no | Author: René Descartes | Source: Attributed | Completion: individual"
+    },
+    {
+        "text": "Quote: There is no such thing as | Author: René Descartes | Source: Attributed | Completion: free will"
+    },
+    {
+        "text": "Quote: I would give all I know for half of | Author: René Descartes | Source: Attributed | Completion: what I am ignorant of"
+    },
+    {
+        "text": "Quote: Common sense is the best distributed thing in the world, for everyone thinks he is | Author: René Descartes | Source: Discourse on the Method | Completion: so well endowed with it"
+    },
+    {
+        "text": "Quote: An optimist sees the rose and not its thorns; a pessimist stares at the thorns, oblivious to | Author: Khalil Gibran | Source: Attributed | Completion: the rose"
+    },
+    {
+        "text": "Quote: Your living is determined not so much by what life brings to you as by the attitude you bring to life; not so much by what happens to you as by the way your mind looks at | Author: Khalil Gibran | Source: Attributed | Completion: what happens"
+    },
+    {
+        "text": "Quote: Man is condemned to be free; because once thrown into the world, he is responsible for | Author: Jean-Paul Sartre | Source: Being and Nothingness | Completion: everything he does"
+    },
+    {
+        "text": "Quote: Hell is | Author: Jean-Paul Sartre | Source: No Exit | Completion: other people"
+    },
+    {
+        "text": "Quote: We are our | Author: Jean-Paul Sartre | Source: Attributed | Completion: choices"
+    },
+    {
+        "text": "Quote: Freedom is what you do with whats been | Author: Jean-Paul Sartre | Source: Attributed | Completion: done to you"
+    },
+    {
+        "text": "Quote: Everything has been figured out, except | Author: Jean-Paul Sartre | Source: Attributed | Completion: how to live"
+    },
+    {
+        "text": "Quote: If youre lonely when youre alone, | Author: Jean-Paul Sartre | Source: Attributed | Completion: youre in bad company"
+    },
+    {
+        "text": "Quote: Existence precedes | Author: Jean-Paul Sartre | Source: Existentialism is a Humanism | Completion: essence"
+    },
+    {
+        "text": "Quote: Commitment is an act, not | Author: Jean-Paul Sartre | Source: Attributed | Completion: a word"
+    },
+    {
+        "text": "Quote: Man is nothing else but that which he | Author: Jean-Paul Sartre | Source: Existentialism is a Humanism | Completion: makes of himself"
+    },
+    {
+        "text": "Quote: Life has no meaning a priori it is up to you to | Author: Jean-Paul Sartre | Source: Attributed | Completion: give it a meaning"
+    },
+    {
+        "text": "Quote: He who has a why to live can bear almost | Author: Viktor Frankl | Source: Mans Search for Meaning | Completion: any how"
+    },
+    {
+        "text": "Quote: Between stimulus and response there is a space In that space is our power to choose our response In our response lies | Author: Viktor Frankl | Source: Attributed | Completion: our growth and our freedom"
+    },
+    {
+        "text": "Quote: When we are no longer able to change a situation, we are challenged to | Author: Viktor Frankl | Source: Mans Search for Meaning | Completion: change ourselves"
+    },
+    {
+        "text": "Quote: Everything can be taken from a man but one thing: the last of the human freedoms—to choose ones attitude in any given set of circumstances, to choose | Author: Viktor Frankl | Source: Mans Search for Meaning | Completion: ones own way"
+    },
+    {
+        "text": "Quote: What is to give light must | Author: Viktor Frankl | Source: Attributed | Completion: endure burning"
+    },
+    {
+        "text": "Quote: The meaning of life is to give | Author: Viktor Frankl | Source: Attributed | Completion: life meaning"
+    },
+    {
+        "text": "Quote: In some ways suffering ceases to be suffering at the moment it finds | Author: Viktor Frankl | Source: Mans Search for Meaning | Completion: a meaning"
+    },
+    {
+        "text": "Quote: Live as if you were living already for the second time and as if you had acted the first time as wrongly as | Author: Viktor Frankl | Source: Mans Search for Meaning | Completion: you are about to act now"
+    },
+    {
+        "text": "Quote: Ultimately, man should not ask what the meaning of his life is, but rather he must recognize that it is he who | Author: Viktor Frankl | Source: Mans Search for Meaning | Completion: is asked"
+    },
+    {
+        "text": "Quote: What man actually needs is not a tensionless state but rather the striving and struggling for a worthwhile goal, a | Author: Viktor Frankl | Source: Mans Search for Meaning | Completion: freely chosen task"
+    },
+    {
+        "text": "Quote: To be is to be | Author: George Berkeley | Source: Principles of Human Knowledge | Completion: perceived"
+    },
+    {
+        "text": "Quote: I can resist everything except | Author: Oscar Wilde | Source: Lady Windermeres Fan | Completion: temptation"
+    },
+    {
+        "text": "Quote: Be yourself; everyone else is | Author: Oscar Wilde | Source: Attributed | Completion: already taken"
+    },
+    {
+        "text": "Quote: Experience is the name everyone gives to | Author: Oscar Wilde | Source: Lady Windermeres Fan | Completion: their mistakes"
+    },
+    {
+        "text": "Quote: We are all in the gutter, but some of us are | Author: Oscar Wilde | Source: Lady Windermeres Fan | Completion: looking at the stars"
+    },
+    {
+        "text": "Quote: To love oneself is the beginning of a | Author: Oscar Wilde | Source: Phrases and Philosophies for the Use of the Young | Completion: lifelong romance"
+    },
+    {
+        "text": "Quote: A cynic is a man who knows the price of everything and | Author: Oscar Wilde | Source: Lady Windermeres Fan | Completion: the value of nothing"
+    },
+    {
+        "text": "Quote: The truth is rarely pure and | Author: Oscar Wilde | Source: The Importance of Being Earnest | Completion: never simple"
+    },
+    {
+        "text": "Quote: Success is a science; if you have the conditions, | Author: Oscar Wilde | Source: Attributed | Completion: you get the result"
+    },
+    {
+        "text": "Quote: Every saint has a past, and | Author: Oscar Wilde | Source: A Woman of No Importance | Completion: every sinner has a future"
+    },
+    {
+        "text": "Quote: The only thing worse than being talked about is | Author: Oscar Wilde | Source: The Picture of Dorian Gray | Completion: not being talked about"
+    },
+    {
+        "text": "Quote: Consistency is the last refuge of the | Author: Oscar Wilde | Source: The Relation of Dress to Art | Completion: unimaginative"
+    },
+    {
+        "text": "Quote: Life is far too important a thing ever to talk | Author: Oscar Wilde | Source: Vera; or, The Nihilists | Completion: seriously about"
+    },
+    {
+        "text": "Quote: The world is divided into two classes, those who believe the incredible, and those who | Author: Oscar Wilde | Source: Attributed | Completion: do the improbable"
+    },
+    {
+        "text": "Quote: Always forgive your enemies; nothing | Author: Oscar Wilde | Source: Attributed | Completion: annoys them so much"
+    },
+    {
+        "text": "Quote: Man is least himself when he talks in his own person Give him a mask, and | Author: Oscar Wilde | Source: The Critic as Artist | Completion: he will tell you the truth"
+    },
+    {
+        "text": "Quote: True friends stab you in | Author: Oscar Wilde | Source: Attributed | Completion: the front"
+    },
+    {
+        "text": "Quote: Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing | Author: Oscar Wilde | Source: The Critic as Artist | Completion: can be taught"
+    },
+    {
+        "text": "Quote: A dreamer is one who can only find his way by moonlight, and his punishment is that | Author: Oscar Wilde | Source: The Critic as Artist | Completion: he sees the dawn before the rest of the world"
+    },
+    {
+        "text": "Quote: It is what you read when you dont have to that determines | Author: Oscar Wilde | Source: Attributed | Completion: what you will be when you cant help it"
+    },
+    {
+        "text": "Quote: Moderation is a fatal thing Nothing succeeds like | Author: Oscar Wilde | Source: A Woman of No Importance | Completion: excess"
+    },
+    {
+        "text": "Quote: Ordinary riches can be stolen; real riches cannot In your soul are infinitely precious things that | Author: Oscar Wilde | Source: Attributed | Completion: cannot be taken from you"
+    },
+    {
+        "text": "Quote: Art is the most intense mode of | Author: Oscar Wilde | Source: The Soul of Man under Socialism | Completion: individualism that the world has known"
+    },
+    {
+        "text": "Quote: I dont want to go to heaven None of my | Author: Oscar Wilde | Source: Attributed | Completion: friends are there"
+    },
+    {
+        "text": "Quote: Ones real life is often the life that one | Author: Oscar Wilde | Source: LEnvoi | Completion: does not lead"
+    },
+    {
+        "text": "Quote: To be popular one must be | Author: Oscar Wilde | Source: Attributed | Completion: a mediocrity"
+    },
+    {
+        "text": "Quote: If a work of art is rich in experience, varied in its aspects, and complete in its philosophical insight, it is | Author: Oscar Wilde | Source: Attributed | Completion: a masterpiece"
+    },
+    {
+        "text": "Quote: I am so clever that sometimes I dont understand a single word of | Author: Oscar Wilde | Source: The Remarkable Rocket | Completion: what I am saying"
+    },
+    {
+        "text": "Quote: One can always be kind to people about whom | Author: Oscar Wilde | Source: The Picture of Dorian Gray | Completion: one cares nothing"
+    },
+    {
+        "text": "Quote: There is no such thing as a moral or an immoral book Books are | Author: Oscar Wilde | Source: The Picture of Dorian Gray | Completion: well written, or badly written"
+    },
+    {
+        "text": "Quote: That which does not kill us | Author: Friedrich Nietzsche | Source: Twilight of the Idols | Completion: makes us stronger"
+    },
+    {
+        "text": "Quote: God is dead God remains dead And | Author: Friedrich Nietzsche | Source: The Gay Science | Completion: we have killed him"
+    },
+    {
+        "text": "Quote: Without music, life would be | Author: Friedrich Nietzsche | Source: Twilight of the Idols | Completion: a mistake"
+    },
+    {
+        "text": "Quote: He who fights with monsters should be careful lest he thereby | Author: Friedrich Nietzsche | Source: Beyond Good and Evil | Completion: become a monster"
+    },
+    {
+        "text": "Quote: And if thou gaze long into an abyss, the abyss will also | Author: Friedrich Nietzsche | Source: Beyond Good and Evil | Completion: gaze into thee"
+    },
+    {
+        "text": "Quote: The individual has always had to struggle to keep from being overwhelmed by the tribe If you try it, you will be lonely often, and sometimes frightened But no price is too high to pay for the | Author: Friedrich Nietzsche | Source: Attributed | Completion: privilege of owning yourself"
+    },
+    {
+        "text": "Quote: In individuals, insanity is rare; but in groups, parties, nations and epochs, it is | Author: Friedrich Nietzsche | Source: Beyond Good and Evil | Completion: the rule"
+    },
+    {
+        "text": "Quote: There are no facts, only | Author: Friedrich Nietzsche | Source: Notebooks | Completion: interpretations"
+    },
+    {
+        "text": "Quote: The snake which cannot cast its skin has to die As well the minds which are prevented from changing their opinions; they | Author: Friedrich Nietzsche | Source: Daybreak | Completion: cease to be mind"
+    },
+    {
+        "text": "Quote: Sometimes people dont want to hear the truth because they dont want their | Author: Friedrich Nietzsche | Source: Attributed | Completion: illusions destroyed"
+    },
+    {
+        "text": "Quote: Im not upset that you lied to me, Im upset that from now on | Author: Friedrich Nietzsche | Source: Attributed | Completion: I cant believe you"
+    },
+    {
+        "text": "Quote: The higher we soar the smaller we appear to those who | Author: Friedrich Nietzsche | Source: Thus Spoke Zarathustra | Completion: cannot fly"
+    },
+    {
+        "text": "Quote: You must have chaos within you to give birth to a | Author: Friedrich Nietzsche | Source: Thus Spoke Zarathustra | Completion: dancing star"
+    },
+    {
+        "text": "Quote: All truly great thoughts are conceived by | Author: Friedrich Nietzsche | Source: Twilight of the Idols | Completion: walking"
+    },
+    {
+        "text": "Quote: One must be a sea, to receive a polluted stream without | Author: Friedrich Nietzsche | Source: Thus Spoke Zarathustra | Completion: becoming impure"
+    },
+    {
+        "text": "Quote: There is always some madness in love But there is also always some | Author: Friedrich Nietzsche | Source: Thus Spoke Zarathustra | Completion: reason in madness"
+    },
+    {
+        "text": "Quote: Whoever is right is also | Author: Friedrich Nietzsche | Source: Thus Spoke Zarathustra | Completion: wrong"
+    },
+    {
+        "text": "Quote: To live is to suffer, to survive is to find some | Author: Friedrich Nietzsche | Source: Attributed | Completion: meaning in the suffering"
+    },
+    {
+        "text": "Quote: Man is a rope stretched between the animal and the Superman—a | Author: Friedrich Nietzsche | Source: Thus Spoke Zarathustra | Completion: rope over an abyss"
+    },
+    {
+        "text": "Quote: Thoughts are the shadows of | Author: Friedrich Nietzsche | Source: The Gay Science | Completion: our feelings"
+    },
+    {
+        "text": "Quote: A philosopher: that is a man who constantly experiences, sees, hears, suspects, hopes, and dreams | Author: Friedrich Nietzsche | Source: Beyond Good and Evil | Completion: extraordinary things"
+    },
+    {
+        "text": "Quote: Only when we are alone do we truly | Author: Friedrich Nietzsche | Source: Attributed | Completion: belong to ourselves"
+    },
+    {
+        "text": "Quote: Convictions are more dangerous enemies of truth than | Author: Friedrich Nietzsche | Source: Human, All Too Human | Completion: lies"
+    },
+    {
+        "text": "Quote: The advantage of a bad memory is that one enjoys several times the same good things for | Author: Friedrich Nietzsche | Source: Attributed | Completion: the first time"
+    },
+    {
+        "text": "Quote: Every deep thinker is more afraid of being understood than of | Author: Friedrich Nietzsche | Source: Beyond Good and Evil | Completion: being misunderstood"
+    },
+    {
+        "text": "Quote: Become who | Author: Friedrich Nietzsche | Source: Thus Spoke Zarathustra | Completion: you are"
+    },
+    {
+        "text": "Quote: In every real man a child is hidden that | Author: Friedrich Nietzsche | Source: Thus Spoke Zarathustra | Completion: wants to play"
+    },
+    {
+        "text": "Quote: The true man wants two things: danger and | Author: Friedrich Nietzsche | Source: Thus Spoke Zarathustra | Completion: play"
+    },
+    {
+        "text": "Quote: What is great in man is that he is a bridge and not | Author: Friedrich Nietzsche | Source: Thus Spoke Zarathustra | Completion: an end"
+    },
+    {
+        "text": "Quote: One often contradicts an opinion when it is really only the tone in which it has been | Author: Friedrich Nietzsche | Source: Attributed | Completion: presented that is unsympathetic"
+    },
+    {
+        "text": "Quote: I cannot believe in a God who wants to be | Author: Friedrich Nietzsche | Source: Thus Spoke Zarathustra | Completion: praised all the time"
+    },
+    {
+        "text": "Quote: Shared joys make a friend, not | Author: Friedrich Nietzsche | Source: Attributed | Completion: shared suffering"
+    },
+    {
+        "text": "Quote: Silence is worse; all truths that are kept silent | Author: Friedrich Nietzsche | Source: Thus Spoke Zarathustra | Completion: become poisonous"
+    },
+    {
+        "text": "Quote: There are two kinds of people in the world, those who want to know, and those who | Author: Friedrich Nietzsche | Source: Attributed | Completion: want to believe"
+    },
+    {
+        "text": "Quote: The secret of reaping the greatest fruitfulness and the greatest enjoyment from life is to | Author: Friedrich Nietzsche | Source: The Gay Science | Completion: live dangerously!"
+    },
+    {
+        "text": "Quote: Many are stubborn in pursuit of the path they have chosen, few in pursuit of | Author: Friedrich Nietzsche | Source: Attributed | Completion: the goal"
+    },
+    {
+        "text": "Quote: Morality is the herd-instinct in | Author: Friedrich Nietzsche | Source: The Gay Science | Completion: the individual"
+    },
+    {
+        "text": "Quote: How little is required for | Author: Friedrich Nietzsche | Source: Thus Spoke Zarathustra | Completion: happiness!"
+    },
+    {
+        "text": "Quote: We should consider every day lost on which we have not | Author: Friedrich Nietzsche | Source: Thus Spoke Zarathustra | Completion: danced at least once"
+    },
+    {
+        "text": "Quote: Is life not a thousand times too short for us to | Author: Friedrich Nietzsche | Source: Thus Spoke Zarathustra | Completion: bore ourselves?"
+    },
+    {
+        "text": "Quote: I love him who liveth in order to | Author: Friedrich Nietzsche | Source: Thus Spoke Zarathustra | Completion: know"
+    },
+    {
+        "text": "Quote: Even the most courageous among us only rarely has the courage for | Author: Friedrich Nietzsche | Source: Twilight of the Idols | Completion: that which he really knows"
+    },
+    {
+        "text": "Quote: Fear is the mother of | Author: Friedrich Nietzsche | Source: Thus Spoke Zarathustra | Completion: morality"
+    },
+    {
+        "text": "Quote: He who obeys, does | Author: Friedrich Nietzsche | Source: Thus Spoke Zarathustra | Completion: not listen to himself"
+    },
+    {
+        "text": "Quote: The world is deep, deeper than day had | Author: Friedrich Nietzsche | Source: Thus Spoke Zarathustra | Completion: thought"
+    },
+    {
+        "text": "Quote: A good writer possesses not only his own spirit but also the | Author: Friedrich Nietzsche | Source: Human, All Too Human | Completion: spirit of his friends"
+    },
+    {
+        "text": "Quote: Where you cannot love, there | Author: Friedrich Nietzsche | Source: Thus Spoke Zarathustra | Completion: pass by"
+    },
+    {
+        "text": "Quote: Out of lifes school of war: What does not kill me | Author: Friedrich Nietzsche | Source: Twilight of the Idols | Completion: makes me stronger"
+    },
+    {
+        "text": "Quote: One loves ultimately ones desires, not | Author: Friedrich Nietzsche | Source: Beyond Good and Evil | Completion: the thing desired"
+    },
+    {
+        "text": "Quote: The best way to begin each day well is to think on awakening whether we can | Author: Friedrich Nietzsche | Source: Human, All Too Human | Completion: give pleasure to at least one person on this day"
+    },
+    {
+        "text": "Quote: To be yourself in a world that is constantly trying to make you something else is the | Author: Ralph Waldo Emerson | Source: Self-Reliance | Completion: greatest accomplishment"
+    },
+    {
+        "text": "Quote: For every minute you are angry you lose sixty seconds of | Author: Ralph Waldo Emerson | Source: Attributed | Completion: happiness"
+    },
+    {
+        "text": "Quote: Do not go where the path may lead, go instead where there is no path and | Author: Ralph Waldo Emerson | Source: Attributed | Completion: leave a trail"
+    },
+    {
+        "text": "Quote: The only person you are destined to become is the person you | Author: Ralph Waldo Emerson | Source: Attributed | Completion: decide to be"
+    },
+    {
+        "text": "Quote: Earth laughs in | Author: Ralph Waldo Emerson | Source: Hamatreya | Completion: flowers"
+    },
+    {
+        "text": "Quote: A foolish consistency is the | Author: Ralph Waldo Emerson | Source: Self-Reliance | Completion: hobgoblin of little minds"
+    },
+    {
+        "text": "Quote: Life is a journey, not a | Author: Ralph Waldo Emerson | Source: Attributed | Completion: destination"
+    },
+    {
+        "text": "Quote: The purpose of life is not to be happy It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have | Author: Ralph Waldo Emerson | Source: Attributed | Completion: lived and lived well"
+    },
+    {
+        "text": "Quote: What you do speaks so loudly that I cannot | Author: Ralph Waldo Emerson | Source: Attributed | Completion: hear what you say"
+    },
+    {
+        "text": "Quote: Every artist was first an | Author: Ralph Waldo Emerson | Source: Orations and Addresses | Completion: amateur"
+    },
+    {
+        "text": "Quote: Adopt the pace of nature: her secret is | Author: Ralph Waldo Emerson | Source: Attributed | Completion: patience"
+    },
+    {
+        "text": "Quote: Nothing can bring you peace but | Author: Ralph Waldo Emerson | Source: Self-Reliance | Completion: yourself"
+    },
+    {
+        "text": "Quote: The ancestor of every action is a | Author: Ralph Waldo Emerson | Source: Essays | Completion: thought"
+    },
+    {
+        "text": "Quote: Always do what you are afraid | Author: Ralph Waldo Emerson | Source: Attributed | Completion: to do"
+    },
+    {
+        "text": "Quote: Knowledge is knowing that a tomato is a fruit; wisdom is | Author: Miles Kington | Source: Attributed | Completion: not putting it in a fruit salad"
+    },
+    {
+        "text": "Quote: I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, | Author: Henry David Thoreau | Source: Walden | Completion: discover that I had not lived"
+    },
+    {
+        "text": "Quote: The mass of men lead lives of | Author: Henry David Thoreau | Source: Walden | Completion: quiet desperation"
+    },
+    {
+        "text": "Quote: Heaven is under our feet as well as | Author: Henry David Thoreau | Source: Walden | Completion: over our heads"
+    },
+    {
+        "text": "Quote: If a man does not keep pace with his companions, perhaps it is because he hears a | Author: Henry David Thoreau | Source: Walden | Completion: different drummer"
+    },
+    {
+        "text": "Quote: Success usually comes to those who are too busy to be | Author: Henry David Thoreau | Source: Attributed | Completion: looking for it"
+    },
+    {
+        "text": "Quote: Go confidently in the direction of your dreams! Live the life | Author: Henry David Thoreau | Source: Walden | Completion: youve imagined"
+    },
+    {
+        "text": "Quote: Its not what you look at that matters, its | Author: Henry David Thoreau | Source: Attributed | Completion: what you see"
+    },
+    {
+        "text": "Quote: Our life is frittered away by | Author: Henry David Thoreau | Source: Walden | Completion: detail Simplify, simplify"
+    },
+    {
+        "text": "Quote: Rather than love, than money, than fame, give me | Author: Henry David Thoreau | Source: Walden | Completion: truth"
+    },
+    {
+        "text": "Quote: Books are the treasured wealth of the world and the | Author: Henry David Thoreau | Source: Walden | Completion: fit inheritance of generations and nations"
+    },
+    {
+        "text": "Quote: Things do not change; | Author: Henry David Thoreau | Source: Walden | Completion: we change"
+    },
+    {
+        "text": "Quote: Could a greater miracle take place than for us to look through | Author: Henry David Thoreau | Source: Walden | Completion: each others eyes for an instant?"
+    },
+    {
+        "text": "Quote: The price of anything is the amount of life you | Author: Henry David Thoreau | Source: Attributed | Completion: exchange for it"
+    },
+    {
+        "text": "Quote: To be a philosopher is not merely to have subtle thoughts, nor even to found a school, but so to love wisdom as to live according to its dictates, a life of | Author: Henry David Thoreau | Source: Walden | Completion: simplicity, independence, magnanimity, and trust"
+    },
+    {
+        "text": "Quote: Justice is a temporary thing that must at last come to an end; but the conscience is | Author: Henry David Thoreau | Source: Attributed | Completion: eternal"
+    },
+    {
+        "text": "Quote: That government is best which governs | Author: Henry David Thoreau | Source: Civil Disobedience | Completion: least"
+    },
+    {
+        "text": "Quote: Live your beliefs and you can | Author: Henry David Thoreau | Source: Attributed | Completion: turn the world around"
+    },
+    {
+        "text": "Quote: Disobedience is the true foundation of liberty The obedient | Author: Henry David Thoreau | Source: Attributed | Completion: must be slaves"
+    },
+    {
+        "text": "Quote: If we will be quiet and ready enough, we shall find compensation in | Author: Henry David Thoreau | Source: Walden | Completion: every disappointment"
+    },
+    {
+        "text": "Quote: Do not trouble yourself much to get new things, whether clothes or friends Sell your clothes and | Author: Henry David Thoreau | Source: Walden | Completion: keep your thoughts"
+    },
+    {
+        "text": "Quote: In the long run, men hit only what they | Author: Henry David Thoreau | Source: Walden | Completion: aim at"
+    },
+    {
+        "text": "Quote: The question is not what you look at, but | Author: Henry David Thoreau | Source: Attributed | Completion: what you see"
+    },
+    {
+        "text": "Quote: Dreams are the touchstones of | Author: Henry David Thoreau | Source: Attributed | Completion: our characters"
+    },
+    {
+        "text": "Quote: How vain it is to sit down to write when you have not | Author: Henry David Thoreau | Source: Journal | Completion: stood up to live"
+    },
+    {
+        "text": "Quote: The heart is the only broken instrument that | Author: TS Eliot | Source: Attributed | Completion: works"
+    },
+    {
+        "text": "Quote: Only those who will risk going too far can possibly find out | Author: TS Eliot | Source: Preface to Transit of Venus | Completion: how far one can go"
+    },
+    {
+        "text": "Quote: We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and | Author: TS Eliot | Source: Little Gidding | Completion: know the place for the first time"
+    },
+    {
+        "text": "Quote: What we call the beginning is often the end And to make an end is | Author: TS Eliot | Source: Little Gidding | Completion: to make a beginning"
+    },
+    {
+        "text": "Quote: Most of the trouble in the world is caused by people wanting to be | Author: TS Eliot | Source: Attributed | Completion: important"
+    },
+    {
+        "text": "Quote: Humankind cannot bear | Author: TS Eliot | Source: Murder in the Cathedral | Completion: very much reality"
+    },
+    {
+        "text": "Quote: This is the way the world ends, not with a bang but | Author: TS Eliot | Source: The Hollow Men | Completion: a whimper"
+    },
+    {
+        "text": "Quote: Do I dare | Author: TS Eliot | Source: The Love Song of J Alfred Prufrock | Completion: disturb the universe?"
+    },
+    {
+        "text": "Quote: The world is not a playground but | Author: TS Eliot | Source: Attributed | Completion: a schoolroom"
+    },
+    {
+        "text": "Quote: For last years words belong to last years language And next years words await | Author: TS Eliot | Source: Little Gidding | Completion: another voice"
+    },
+    {
+        "text": "Quote: In a minute there is time for decisions and revisions which | Author: TS Eliot | Source: The Love Song of J Alfred Prufrock | Completion: a minute will reverse"
+    },
+    {
+        "text": "Quote: The journey not the arrival | Author: TS Eliot | Source: Attributed | Completion: matters"
+    },
+    {
+        "text": "Quote: Unexpressed emotions will never die They are buried alive and will | Author: Sigmund Freud | Source: Attributed | Completion: come forth later in uglier ways"
+    },
+    {
+        "text": "Quote: One day, in retrospect, the years of struggle will strike you as | Author: Sigmund Freud | Source: Attributed | Completion: the most beautiful"
+    },
+    {
+        "text": "Quote: Being entirely honest with oneself is a | Author: Sigmund Freud | Source: Attributed | Completion: good exercise"
+    },
+    {
+        "text": "Quote: From error to error, one discovers | Author: Sigmund Freud | Source: Attributed | Completion: the entire truth"
+    },
+    {
+        "text": "Quote: Out of your vulnerabilities will | Author: Sigmund Freud | Source: Attributed | Completion: come your strength"
+    },
+    {
+        "text": "Quote: How bold one gets when one is sure of | Author: Sigmund Freud | Source: Attributed | Completion: being loved"
+    },
+    {
+        "text": "Quote: The ego is not master in | Author: Sigmund Freud | Source: A Difficulty in the Path of Psycho-Analysis | Completion: its own house"
+    },
+    {
+        "text": "Quote: Neurosis is the inability to | Author: Sigmund Freud | Source: Attributed | Completion: tolerate ambiguity"
+    },
+    {
+        "text": "Quote: Words have a magical power They can bring either the greatest happiness or | Author: Sigmund Freud | Source: Introduction to Psychoanalysis | Completion: deepest despair"
+    },
+    {
+        "text": "Quote: The first human who hurled an insult instead of a stone was the | Author: Sigmund Freud | Source: Attributed | Completion: founder of civilization"
+    },
+    {
+        "text": "Quote: The voice of the intellect is a soft one, but it does not rest until | Author: Sigmund Freud | Source: The Future of an Illusion | Completion: it has gained a hearing"
+    },
+    {
+        "text": "Quote: Where Id was, there | Author: Sigmund Freud | Source: New Introductory Lectures on Psychoanalysis | Completion: Ego shall be"
+    },
+    {
+        "text": "Quote: Dreams are the royal road to | Author: Sigmund Freud | Source: The Interpretation of Dreams | Completion: the unconscious"
+    },
+    {
+        "text": "Quote: The great question that has never been answered, and which I have not yet been able to answer, despite my thirty years of research into the feminine soul, is | Author: Sigmund Freud | Source: Letter to Marie Bonaparte | Completion: What does a woman want?"
+    },
+    {
+        "text": "Quote: Anatomy is | Author: Sigmund Freud | Source: The Passing of the Oedipus Complex | Completion: destiny"
+    },
+    {
+        "text": "Quote: Everything that irritates us about others can lead us to | Author: Carl Jung | Source: Memories, Dreams, Reflections | Completion: an understanding of ourselves"
+    },
+    {
+        "text": "Quote: Your visions will become clear only when you can look into your own heart Who looks outside, dreams; who | Author: Carl Jung | Source: Letter to Fanny Bowditch | Completion: looks inside, awakes"
+    },
+    {
+        "text": "Quote: I am not what happened to me, I am | Author: Carl Jung | Source: Attributed | Completion: what I choose to become"
+    },
+    {
+        "text": "Quote: Until you make the unconscious conscious, it will direct your life and | Author: Carl Jung | Source: Attributed | Completion: you will call it fate"
+    },
+    {
+        "text": "Quote: The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, | Author: Carl Jung | Source: Modern Man in Search of a Soul | Completion: both are transformed"
+    },
+    {
+        "text": "Quote: There is no coming to consciousness without | Author: Carl Jung | Source: Attributed | Completion: pain"
+    },
+    {
+        "text": "Quote: Knowing your own darkness is the best method for dealing with the | Author: Carl Jung | Source: Attributed | Completion: shadows of other people"
+    },
+    {
+        "text": "Quote: Where love rules, there is no will to power, and where power predominates, love | Author: Carl Jung | Source: On the Psychology of the Unconscious | Completion: is lacking"
+    },
+    {
+        "text": "Quote: The privilege of a lifetime is to | Author: Carl Jung | Source: Attributed | Completion: become who you truly are"
+    },
+    {
+        "text": "Quote: The shoe that fits one person | Author: Carl Jung | Source: Attributed | Completion: pinches another"
+    },
+    {
+        "text": "Quote: Thinking is difficult, thats why | Author: Carl Jung | Source: Attributed | Completion: most people judge"
+    },
+    {
+        "text": "Quote: What you resist, | Author: Carl Jung | Source: Attributed | Completion: persists"
+    },
+    {
+        "text": "Quote: Midlife is the time to let go of an overdominant ego and to contemplate | Author: Carl Jung | Source: Attributed | Completion: the deeper significance of human existence"
+    },
+    {
+        "text": "Quote: A man who has not passed through the inferno of his passions has | Author: Carl Jung | Source: Memories, Dreams, Reflections | Completion: never overcome them"
+    },
+    {
+        "text": "Quote: As far as we can discern, the sole purpose of human existence is to kindle a light in the | Author: Carl Jung | Source: Memories, Dreams, Reflections | Completion: darkness of mere being"
+    },
+    {
+        "text": "Quote: We cannot change anything until | Author: Carl Jung | Source: Modern Man in Search of a Soul | Completion: we accept it"
+    },
+    {
+        "text": "Quote: Shame is a soul-eating | Author: Carl Jung | Source: Attributed | Completion: emotion"
+    },
+    {
+        "text": "Quote: Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not | Author: Carl Jung | Source: Attributed | Completion: balanced by sadness"
+    },
+    {
+        "text": "Quote: The creation of something new is not accomplished by the intellect but by the play instinct acting from | Author: Carl Jung | Source: Attributed | Completion: inner necessity"
+    },
+    {
+        "text": "Quote: Man needs difficulties; they are necessary for | Author: Carl Jung | Source: Attributed | Completion: health"
+    },
+    {
+        "text": "Quote: Loneliness does not come from having no people about one, but from being unable to communicate the things that seem important to oneself, or from holding certain views which | Author: Carl Jung | Source: Memories, Dreams, Reflections | Completion: others find inadmissible"
+    },
+    {
+        "text": "Quote: The greatest burden a child must bear is the | Author: Carl Jung | Source: Attributed | Completion: unlived life of the parents"
+    },
+    {
+        "text": "Quote: Knowledge rests not only upon truth but also | Author: Carl Jung | Source: Attributed | Completion: upon error"
+    },
+    {
+        "text": "Quote: Everything depends on how we look at things, and not how | Author: Carl Jung | Source: Attributed | Completion: they are in themselves"
+    },
+    {
+        "text": "Quote: Shrink from nothing Do not | Author: Carl Jung | Source: Attributed | Completion: be afraid"
+    },
+    {
+        "text": "Quote: Deep down, below the surface of the average mans conscience, he hears a voice whispering, \"There is something | Author: Carl Jung | Source: Attributed | Completion: not right\""
+    },
+    {
+        "text": "Quote: One does not become enlightened by imagining figures of light, but by making the | Author: Carl Jung | Source: The Philosophical Tree | Completion: darkness conscious"
+    },
+    {
+        "text": "Quote: If the path before you is clear, youre probably on | Author: Joseph Campbell | Source: Attributed | Completion: someone elses"
+    },
+    {
+        "text": "Quote: Follow your | Author: Joseph Campbell | Source: The Power of Myth | Completion: bliss"
+    },
+    {
+        "text": "Quote: The cave you fear to enter holds the | Author: Joseph Campbell | Source: Attributed | Completion: treasure you seek"
+    },
+    {
+        "text": "Quote: We must be willing to let go of the life we planned so as to have the | Author: Joseph Campbell | Source: Attributed | Completion: life that is waiting for us"
+    },
+    {
+        "text": "Quote: Your life is the fruit of | Author: Joseph Campbell | Source: Attributed | Completion: your own doing"
+    },
+    {
+        "text": "Quote: The privilege of a lifetime is | Author: Joseph Campbell | Source: Attributed | Completion: being who you are"
+    },
+    {
+        "text": "Quote: Myths are public dreams, dreams are | Author: Joseph Campbell | Source: The Power of Myth | Completion: private myths"
+    },
+    {
+        "text": "Quote: The end may justify the means as long as there is something that | Author: Leon Trotsky | Source: Their Morals and Ours | Completion: justifies the end"
+    },
+    {
+        "text": "Quote: Power tends to corrupt, and absolute power | Author: Lord Acton | Source: Letter to Bishop Mandell Creighton | Completion: corrupts absolutely"
+    },
+    {
+        "text": "Quote: The only thing necessary for the triumph of evil is for | Author: Edmund Burke | Source: Attributed | Completion: good men to do nothing"
+    },
+    {
+        "text": "Quote: Those who dont know history are destined to | Author: Edmund Burke | Source: Attributed | Completion: repeat it"
+    },
+    {
+        "text": "Quote: The people never give up their liberties but under | Author: Edmund Burke | Source: Speech at Guildhall | Completion: some delusion"
+    },
+    {
+        "text": "Quote: Magnanimity in politics is not seldom the | Author: Edmund Burke | Source: Speech on Conciliation with America | Completion: truest wisdom"
+    },
+    {
+        "text": "Quote: Nobody made a greater mistake than he who did nothing because | Author: Edmund Burke | Source: Attributed | Completion: he could do only a little"
+    },
+    {
+        "text": "Quote: The condition upon which God hath given liberty to man is | Author: John Philpot Curran | Source: Speech on the Right of Election | Completion: eternal vigilance"
+    },
+    {
+        "text": "Quote: In a time of deceit telling the truth is a | Author: George Orwell | Source: Attributed | Completion: revolutionary act"
+    },
+    {
+        "text": "Quote: Big Brother is | Author: George Orwell | Source: 1984 | Completion: watching you"
+    },
+    {
+        "text": "Quote: War is peace Freedom is slavery | Author: George Orwell | Source: 1984 | Completion: Ignorance is strength"
+    },
+    {
+        "text": "Quote: Who controls the past controls the future Who controls the present controls | Author: George Orwell | Source: 1984 | Completion: the past"
+    },
+    {
+        "text": "Quote: If you want a picture of the future, imagine a boot stamping on a human face— | Author: George Orwell | Source: 1984 | Completion: forever"
+    },
+    {
+        "text": "Quote: All animals are equal, but some animals are | Author: George Orwell | Source: Animal Farm | Completion: more equal than others"
+    },
+    {
+        "text": "Quote: Doublethink means the power of holding two contradictory beliefs in ones mind simultaneously, and | Author: George Orwell | Source: 1984 | Completion: accepting both of them"
+    },
+    {
+        "text": "Quote: The most effective way to destroy people is to deny and obliterate their own | Author: George Orwell | Source: Attributed | Completion: understanding of their history"
+    },
+    {
+        "text": "Quote: If liberty means anything at all, it means the right to tell people | Author: George Orwell | Source: Preface to Animal Farm | Completion: what they do not want to hear"
+    },
+    {
+        "text": "Quote: Political language is designed to make lies sound truthful and murder respectable, and to give an appearance of | Author: George Orwell | Source: Politics and the English Language | Completion: solidity to pure wind"
+    },
+    {
+        "text": "Quote: During times of universal deceit, telling the truth becomes a | Author: George Orwell | Source: Attributed | Completion: revolutionary act"
+    },
+    {
+        "text": "Quote: The further a society drifts from truth the more it will | Author: George Orwell | Source: Attributed | Completion: hate those who speak it"
+    },
+    {
+        "text": "Quote: Journalism is printing what someone else does not want printed: everything else is | Author: George Orwell | Source: Attributed | Completion: public relations"
+    },
+    {
+        "text": "Quote: Man is the only creature that consumes without | Author: George Orwell | Source: Animal Farm | Completion: producing"
+    },
+    {
+        "text": "Quote: The best books are those that tell you | Author: George Orwell | Source: 1984 | Completion: what you know already"
+    },
+    {
+        "text": "Quote: Freedom is the freedom to say that two plus two make four If that is granted, | Author: George Orwell | Source: 1984 | Completion: all else follows"
+    },
+    {
+        "text": "Quote: If you want to keep a secret, you must also hide it from | Author: George Orwell | Source: 1984 | Completion: yourself"
+    },
+    {
+        "text": "Quote: Reality exists in the human mind, and | Author: George Orwell | Source: 1984 | Completion: nowhere else"
+    },
+    {
+        "text": "Quote: Power is not a means; it is an end One does not establish a dictatorship in order to safeguard a revolution; one makes the revolution in order to | Author: George Orwell | Source: 1984 | Completion: establish the dictatorship"
+    },
+    {
+        "text": "Quote: To see what is in front of ones nose needs a | Author: George Orwell | Source: In Front of Your Nose | Completion: constant struggle"
+    },
+    {
+        "text": "Quote: A people that elect corrupt politicians, imposters, thieves and traitors are not victims, | Author: George Orwell | Source: Attributed | Completion: but accomplices"
+    },
+    {
+        "text": "Quote: Every generation imagines itself to be more intelligent than the one that went before it, and wiser than | Author: George Orwell | Source: Attributed | Completion: the one that comes after it"
+    },
+    {
+        "text": "Quote: Nationalism is power-hunger tempered by | Author: George Orwell | Source: Notes on Nationalism | Completion: self-deception"
+    },
+    {
+        "text": "Quote: Saints should always be judged guilty until they are | Author: George Orwell | Source: Reflections on Gandhi | Completion: proved innocent"
+    },
+    {
+        "text": "Quote: The essence of being human is that one does not | Author: George Orwell | Source: Reflections on Gandhi | Completion: seek perfection"
+    },
+    {
+        "text": "Quote: No one ever seizes power with the intention of | Author: George Orwell | Source: 1984 | Completion: relinquishing it"
+    },
+    {
+        "text": "Quote: The choice for mankind lies between freedom and happiness and for the great bulk of mankind, | Author: George Orwell | Source: 1984 | Completion: happiness is better"
+    },
+    {
+        "text": "Quote: Until they become conscious they will never rebel, and until after they have rebelled | Author: George Orwell | Source: 1984 | Completion: they cannot become conscious"
+    },
+    {
+        "text": "Quote: The oppressed are allowed once every few years to decide which particular representatives of the oppressing class are to | Author: Karl Marx | Source: The Civil War in France | Completion: represent and repress them"
+    },
+    {
+        "text": "Quote: History repeats itself, first as tragedy, second as | Author: Karl Marx | Source: The Eighteenth Brumaire of Louis Bonaparte | Completion: farce"
+    },
+    {
+        "text": "Quote: The philosophers have only interpreted the world, in various ways; the point is to | Author: Karl Marx | Source: Theses on Feuerbach | Completion: change it"
+    },
+    {
+        "text": "Quote: Religion is the sigh of the oppressed creature, the heart of a heartless world, and the soul of soulless conditions It is the | Author: Karl Marx | Source: A Contribution to the Critique of Hegels Philosophy of Right | Completion: opium of the people"
+    },
+    {
+        "text": "Quote: The production of too many useful things results in too many | Author: Karl Marx | Source: Economic and Philosophic Manuscripts of 1844 | Completion: useless people"
+    },
+    {
+        "text": "Quote: The theory of Communism may be summed up in one sentence: | Author: Karl Marx | Source: The Communist Manifesto | Completion: Abolish all private property"
+    },
+    {
+        "text": "Quote: From each according to his ability, to each according to | Author: Karl Marx | Source: Critique of the Gotha Program | Completion: his needs"
+    },
+    {
+        "text": "Quote: Workers of the world, unite! You have nothing to lose but | Author: Karl Marx | Source: The Communist Manifesto | Completion: your chains"
+    },
+    {
+        "text": "Quote: Capital is dead labor, which, vampire-like, lives only by sucking living labor, and lives the more, | Author: Karl Marx | Source: Das Kapital | Completion: the more labor it sucks"
+    },
+    {
+        "text": "Quote: Democracy is the road to | Author: Karl Marx | Source: Attributed | Completion: socialism"
+    },
+    {
+        "text": "Quote: The history of all hitherto existing society is the history of | Author: Karl Marx | Source: The Communist Manifesto | Completion: class struggles"
+    },
+    {
+        "text": "Quote: Let the ruling classes tremble at a Communistic revolution The proletarians have nothing to lose but their chains They have a | Author: Karl Marx | Source: The Communist Manifesto | Completion: world to win"
+    },
+    {
+        "text": "Quote: Man makes his own history, but he does not make it out of | Author: Karl Marx | Source: The Eighteenth Brumaire of Louis Bonaparte | Completion: whole cloth"
+    },
+    {
+        "text": "Quote: The tradition of all dead generations weighs like a nightmare on the | Author: Karl Marx | Source: The Eighteenth Brumaire of Louis Bonaparte | Completion: brains of the living"
+    },
+    {
+        "text": "Quote: Necessity is blind until | Author: Karl Marx | Source: Attributed | Completion: it becomes conscious Freedom is the consciousness of necessity"
+    },
+    {
+        "text": "Quote: Landlords, like all other men, love to reap where they | Author: Adam Smith | Source: The Wealth of Nations | Completion: never sowed"
+    },
+    {
+        "text": "Quote: It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to | Author: Adam Smith | Source: The Wealth of Nations | Completion: their own interest"
+    },
+    {
+        "text": "Quote: Science is the great antidote to the | Author: Adam Smith | Source: The Wealth of Nations | Completion: poison of enthusiasm and superstition"
+    },
+    {
+        "text": "Quote: No society can surely be flourishing and happy, of which the far greater part of the members are | Author: Adam Smith | Source: The Wealth of Nations | Completion: poor and miserable"
+    },
+    {
+        "text": "Quote: The first step toward vice is to make a mystery of | Author: Voltaire | Source: Attributed | Completion: innocent actions"
+    },
+    {
+        "text": "Quote: To see what is right and not do it is a want of | Author: Confucius | Source: Analects | Completion: courage"
+    },
+    {
+        "text": "Quote: Man is born free; and everywhere he is in | Author: Jean-Jacques Rousseau | Source: The Social Contract | Completion: chains"
+    },
+    {
+        "text": "Quote: Those who are able to see beyond the shadows and lies of their culture will never be understood, let alone believed, by | Author: Plato | Source: Allegory of the Cave | Completion: the masses"
+    },
+    {
+        "text": "Quote: If you want to test a mans character, give him | Author: Abraham Lincoln | Source: Attributed | Completion: power"
+    },
+    {
+        "text": "Quote: Nearly all men can stand adversity, but if you want to test a mans character, | Author: Abraham Lincoln | Source: Attributed | Completion: give him power"
+    },
+    {
+        "text": "Quote: I am a slow walker, but I never | Author: Abraham Lincoln | Source: Attributed | Completion: walk back"
+    },
+    {
+        "text": "Quote: Whatever you are, | Author: Abraham Lincoln | Source: Attributed | Completion: be a good one"
+    },
+    {
+        "text": "Quote: My best friend is a person who will give me a book I | Author: Abraham Lincoln | Source: Attributed | Completion: havent read"
+    },
+    {
+        "text": "Quote: Most folks are as happy as they make up | Author: Abraham Lincoln | Source: Attributed | Completion: their minds to be"
+    },
+    {
+        "text": "Quote: Dont worry when you are not recognized, but strive to be | Author: Abraham Lincoln | Source: Attributed | Completion: worthy of recognition"
+    },
+    {
+        "text": "Quote: Government of the people, by the people, for the people, shall not | Author: Abraham Lincoln | Source: Gettysburg Address | Completion: perish from the earth"
+    },
+    {
+        "text": "Quote: Books serve to show a man that those original thoughts of his arent very new | Author: Abraham Lincoln | Source: Attributed | Completion: after all"
+    },
+    {
+        "text": "Quote: The best way to destroy an enemy is to make him | Author: Abraham Lincoln | Source: Attributed | Completion: a friend"
+    },
+    {
+        "text": "Quote: No man has a good enough memory to be a | Author: Abraham Lincoln | Source: Attributed | Completion: successful liar"
+    },
+    {
+        "text": "Quote: You can fool all the people some of the time, and some of the people all the time, but you cannot | Author: Abraham Lincoln | Source: Attributed | Completion: fool all the people all the time"
+    },
+    {
+        "text": "Quote: Tact is the ability to describe others as | Author: Abraham Lincoln | Source: Attributed | Completion: they see themselves"
+    },
+    {
+        "text": "Quote: Those who deny freedom to others deserve it | Author: Abraham Lincoln | Source: Letter to Henry L Pierce | Completion: not for themselves"
+    },
+    {
+        "text": "Quote: Be sure you put your feet in the right place, then | Author: Abraham Lincoln | Source: Attributed | Completion: stand firm"
+    },
+    {
+        "text": "Quote: When I do good, I feel good When I do bad, I feel bad Thats | Author: Abraham Lincoln | Source: Attributed | Completion: my religion"
+    },
+    {
+        "text": "Quote: I dont like that man I must get to | Author: Abraham Lincoln | Source: Attributed | Completion: know him better"
+    },
+    {
+        "text": "Quote: I am not bound to win, but I am bound to be true I am not bound to succeed, but I am bound to live up to | Author: Abraham Lincoln | Source: Attributed | Completion: what light I have"
+    },
+    {
+        "text": "Quote: Everything that is done in the world is done by | Author: Martin Luther | Source: Attributed | Completion: hope"
+    },
+    {
+        "text": "Quote: Darkness cannot drive out darkness; only light can do that Hate cannot drive out hate; | Author: Martin Luther King Jr | Source: Strength to Love | Completion: only love can do that"
+    },
+    {
+        "text": "Quote: Injustice anywhere is a | Author: Martin Luther King Jr | Source: Letter from Birmingham Jail | Completion: threat to justice everywhere"
+    },
+    {
+        "text": "Quote: The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at | Author: Martin Luther King Jr | Source: Strength to Love | Completion: times of challenge and controversy"
+    },
+    {
+        "text": "Quote: Our lives begin to end the day we become silent about | Author: Martin Luther King Jr | Source: Attributed | Completion: things that matter"
+    },
+    {
+        "text": "Quote: I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the | Author: Martin Luther King Jr | Source: I Have a Dream Speech | Completion: content of their character"
+    },
+    {
+        "text": "Quote: Faith is taking the first step even when you dont | Author: Martin Luther King Jr | Source: Attributed | Completion: see the whole staircase"
+    },
+    {
+        "text": "Quote: Forgiveness is not an occasional act, it is a | Author: Martin Luther King Jr | Source: Attributed | Completion: constant attitude"
+    },
+    {
+        "text": "Quote: A riot is the language of the | Author: Martin Luther King Jr | Source: The Other America | Completion: unheard"
+    },
+    {
+        "text": "Quote: Never, never be afraid to do whats right, especially if the well-being of a person or animal is at stake Societys punishments are small compared to the wounds we inflict on our | Author: Martin Luther King Jr | Source: Attributed | Completion: soul when we look the other way"
+    },
+    {
+        "text": "Quote: The time is always right to do | Author: Martin Luther King Jr | Source: Oberlin College Commencement Speech | Completion: what is right"
+    },
+    {
+        "text": "Quote: We must learn to live together as brothers or | Author: Martin Luther King Jr | Source: Speech in St Louis | Completion: perish together as fools"
+    },
+    {
+        "text": "Quote: There comes a time when silence is | Author: Martin Luther King Jr | Source: Beyond Vietnam | Completion: betrayal"
+    },
+    {
+        "text": "Quote: True peace is not merely the absence of tension: it is the | Author: Martin Luther King Jr | Source: Stride Toward Freedom | Completion: presence of justice"
+    },
+    {
+        "text": "Quote: Lifes most persistent and urgent question is, | Author: Martin Luther King Jr | Source: Attributed | Completion: \"What are you doing for others?\""
+    },
+    {
+        "text": "Quote: The arc of the moral universe is long, but it | Author: Martin Luther King Jr | Source: Attributed | Completion: bends toward justice"
+    },
+    {
+        "text": "Quote: If you cant fly then run, if you cant run then walk, if you cant walk then crawl, but whatever you do you have to | Author: Martin Luther King Jr | Source: Keep Moving Speech | Completion: keep moving forward"
+    },
+    {
+        "text": "Quote: Freedom is never voluntarily given by the oppressor; it must be | Author: Martin Luther King Jr | Source: Letter from Birmingham Jail | Completion: demanded by the oppressed"
+    },
+    {
+        "text": "Quote: Man must evolve for all human conflict a method which rejects revenge, aggression and retaliation The foundation of such a method is | Author: Martin Luther King Jr | Source: Nobel Peace Prize Acceptance Speech | Completion: love"
+    },
+    {
+        "text": "Quote: Change does not roll in on the wheels of inevitability, but comes through | Author: Martin Luther King Jr | Source: Attributed | Completion: continuous struggle"
+    },
+    {
+        "text": "Quote: He who is devoid of the power to forgive is devoid of the | Author: Martin Luther King Jr | Source: Strength to Love | Completion: power to love"
+    },
+    {
+        "text": "Quote: Nothing in all the world is more dangerous than sincere ignorance and | Author: Martin Luther King Jr | Source: Strength to Love | Completion: conscientious stupidity"
+    },
+    {
+        "text": "Quote: We are caught in an inescapable network of mutuality, tied in a single garment of destiny Whatever affects one directly, | Author: Martin Luther King Jr | Source: Letter from Birmingham Jail | Completion: affects all indirectly"
+    },
+    {
+        "text": "Quote: Beauty is truth, truth beauty,—that is all / Ye know on earth, and | Author: John Keats | Source: Ode on a Grecian Urn | Completion: all ye need to know"
+    },
+    {
+        "text": "Quote: A thing of beauty is a | Author: John Keats | Source: Endymion | Completion: joy for ever"
+    },
+    {
+        "text": "Quote: I am certain of nothing but the holiness of the Hearts affections and the | Author: John Keats | Source: Letter to Benjamin Bailey | Completion: truth of Imagination"
+    },
+    {
+        "text": "Quote: The poetry of the earth is | Author: John Keats | Source: On the Grasshopper and Cricket | Completion: never dead"
+    },
+    {
+        "text": "Quote: I was never really insane except upon occasions when my | Author: Edgar Allan Poe | Source: Letter to George W Eveleth | Completion: heart was touched"
+    },
+    {
+        "text": "Quote: All that we see or seem is but a | Author: Edgar Allan Poe | Source: A Dream Within a Dream | Completion: dream within a dream"
+    },
+    {
+        "text": "Quote: Believe nothing you hear, and only | Author: Edgar Allan Poe | Source: The System of Doctor Tarr and Professor Fether | Completion: one half that you see"
+    },
+    {
+        "text": "Quote: Words have no power to impress the mind without the exquisite | Author: Edgar Allan Poe | Source: Attributed | Completion: horror of their reality"
+    },
+    {
+        "text": "Quote: Deep into that darkness peering, long I stood there, wondering, fearing, | Author: Edgar Allan Poe | Source: The Raven | Completion: doubting, dreaming dreams no mortal ever dared to dream before"
+    },
+    {
+        "text": "Quote: Science has not yet taught us if madness is or is not the | Author: Edgar Allan Poe | Source: Eleonora | Completion: loftiest intelligence"
+    },
+    {
+        "text": "Quote: To elevate the soul, poetry is | Author: Edgar Allan Poe | Source: The Poetic Principle | Completion: necessary"
+    },
+    {
+        "text": "Quote: To see a world in a grain of sand and a heaven in a wild flower, hold infinity in the palm of your hand and | Author: William Blake | Source: Auguries of Innocence | Completion: eternity in an hour"
+    },
+    {
+        "text": "Quote: The man who never alters his opinion is like standing water, and | Author: William Blake | Source: The Marriage of Heaven and Hell | Completion: breeds reptiles of the mind"
+    },
+    {
+        "text": "Quote: The road of excess leads to the | Author: William Blake | Source: The Marriage of Heaven and Hell | Completion: palace of wisdom"
+    },
+    {
+        "text": "Quote: If the doors of perception were cleansed every thing would appear to man as it is, | Author: William Blake | Source: The Marriage of Heaven and Hell | Completion: Infinite"
+    },
+    {
+        "text": "Quote: A robin redbreast in a cage puts | Author: William Blake | Source: Auguries of Innocence | Completion: all Heaven in a rage"
+    },
+    {
+        "text": "Quote: Think in the morning Act in the noon Eat in the evening | Author: William Blake | Source: The Marriage of Heaven and Hell | Completion: Sleep in the night"
+    },
+    {
+        "text": "Quote: Great things are done when men and mountains meet; this is not done by | Author: William Blake | Source: Gnomic Verses | Completion: jostling in the street"
+    },
+    {
+        "text": "Quote: The busy bee has no time for | Author: William Blake | Source: The Marriage of Heaven and Hell | Completion: sorrow"
+    },
+    {
+        "text": "Quote: Opposition is true | Author: William Blake | Source: The Marriage of Heaven and Hell | Completion: friendship"
+    },
+    {
+        "text": "Quote: What is now proved was once | Author: William Blake | Source: The Marriage of Heaven and Hell | Completion: only imagined"
+    },
+    {
+        "text": "Quote: Tyger! Tyger! burning bright / In the forests of | Author: William Blake | Source: The Tyger | Completion: the night"
+    },
+    {
+        "text": "Quote: I must create a system or be | Author: William Blake | Source: Jerusalem | Completion: enslavd by another mans"
+    },
+    {
+        "text": "Quote: The true method of knowledge is | Author: William Blake | Source: All Religions are One | Completion: experiment"
+    },
+    {
+        "text": "Quote: Hope is the thing with feathers / That perches in the soul / And sings the tune without the words / And never | Author: Emily Dickinson | Source: Poem 254 | Completion: stops at all"
+    },
+    {
+        "text": "Quote: Find ecstasy in life; the mere sense of living is | Author: Emily Dickinson | Source: Attributed | Completion: joy enough"
+    },
+    {
+        "text": "Quote: That it will never come again is what makes life | Author: Emily Dickinson | Source: Attributed | Completion: so sweet"
+    },
+    {
+        "text": "Quote: The heart wants what it wants, or else it | Author: Emily Dickinson | Source: Letter to Mary Bowles | Completion: does not care"
+    },
+    {
+        "text": "Quote: Truth is so rare, it is | Author: Emily Dickinson | Source: Attributed | Completion: delightful to tell it"
+    },
+    {
+        "text": "Quote: Behavior is what a man does, not what he | Author: Emily Dickinson | Source: Attributed | Completion: thinks, feels, or believes"
+    },
+    {
+        "text": "Quote: Forever is composed of | Author: Emily Dickinson | Source: Poem 624 | Completion: nows"
+    },
+    {
+        "text": "Quote: Nature is a haunted house—but Art—is a house that | Author: Emily Dickinson | Source: Letter to TW Higginson | Completion: tries to be haunted"
+    },
+    {
+        "text": "Quote: To live is so startling it leaves little time for | Author: Emily Dickinson | Source: Attributed | Completion: anything else"
+    },
+    {
+        "text": "Quote: Dwell in | Author: Emily Dickinson | Source: Poem 657 | Completion: possibility"
+    },
+    {
+        "text": "Quote: Success is counted sweetest / By those who | Author: Emily Dickinson | Source: Poem 67 | Completion: neer succeed"
+    },
+    {
+        "text": "Quote: Morning without you is a | Author: Emily Dickinson | Source: Attributed | Completion: dwindled dawn"
+    },
+    {
+        "text": "Quote: If I can stop one heart from breaking, I shall | Author: Emily Dickinson | Source: Poem 919 | Completion: not live in vain"
+    },
+    {
+        "text": "Quote: The Soul selects her own Society — / Then — shuts the | Author: Emily Dickinson | Source: Poem 303 | Completion: Door"
+    },
+    {
+        "text": "Quote: Tell all the truth but tell it | Author: Emily Dickinson | Source: Poem 1129 | Completion: slant"
+    },
+    {
+        "text": "Quote: I celebrate myself, and sing myself, and what I assume you shall assume, for every atom belonging to me as | Author: Walt Whitman | Source: Song of Myself | Completion: good belongs to you"
+    },
+    {
+        "text": "Quote: Do I contradict myself? Very well then I contradict myself, (I am large, I | Author: Walt Whitman | Source: Song of Myself | Completion: contain multitudes)"
+    },
+    {
+        "text": "Quote: Keep your face always toward the sunshine—and | Author: Walt Whitman | Source: Attributed | Completion: shadows will fall behind you"
+    },
+    {
+        "text": "Quote: Re-examine all you have been told in school or church or in any book, and dismiss whatever | Author: Walt Whitman | Source: Preface to Leaves of Grass | Completion: insults your own soul"
+    },
+    {
+        "text": "Quote: The powerful play goes on, and you may | Author: Walt Whitman | Source: O Me! O Life! | Completion: contribute a verse"
+    },
+    {
+        "text": "Quote: Nothing endures but | Author: Walt Whitman | Source: Leaves of Grass | Completion: personal qualities"
+    },
+    {
+        "text": "Quote: I have perceived that to be with those I like is | Author: Walt Whitman | Source: Leaves of Grass | Completion: enough"
+    },
+    {
+        "text": "Quote: To me every hour of the light and dark is a | Author: Walt Whitman | Source: Miracles | Completion: miracle"
+    },
+    {
+        "text": "Quote: Be curious, not | Author: Walt Whitman | Source: Attributed | Completion: judgmental"
+    },
+    {
+        "text": "Quote: Happiness, not in another place but this placenot for another hour, but | Author: Walt Whitman | Source: Leaves of Grass | Completion: this hour"
+    },
+    {
+        "text": "Quote: Either write something worth reading or do something | Author: Benjamin Franklin | Source: Poor Richards Almanack | Completion: worth writing"
+    },
+    {
+        "text": "Quote: Tell me and I forget Teach me and I remember Involve me and | Author: Benjamin Franklin | Source: Attributed | Completion: I learn"
+    },
+    {
+        "text": "Quote: Three may keep a secret, if | Author: Benjamin Franklin | Source: Poor Richards Almanack | Completion: two of them are dead"
+    },
+    {
+        "text": "Quote: An investment in knowledge pays the | Author: Benjamin Franklin | Source: Attributed | Completion: best interest"
+    },
+    {
+        "text": "Quote: Well done is better than | Author: Benjamin Franklin | Source: Poor Richards Almanack | Completion: well said"
+    },
+    {
+        "text": "Quote: He that can have patience can have | Author: Benjamin Franklin | Source: Poor Richards Almanack | Completion: what he will"
+    },
+    {
+        "text": "Quote: Diligence is the mother of | Author: Benjamin Franklin | Source: Poor Richards Almanack | Completion: good luck"
+    },
+    {
+        "text": "Quote: By failing to prepare, you are | Author: Benjamin Franklin | Source: Attributed | Completion: preparing to fail"
+    },
+    {
+        "text": "Quote: Lost time is never | Author: Benjamin Franklin | Source: Poor Richards Almanack | Completion: found again"
+    },
+    {
+        "text": "Quote: There never was a good war, or a | Author: Benjamin Franklin | Source: Letter to Josiah Quincy | Completion: bad peace"
+    },
+    {
+        "text": "Quote: Guest, like fish, begin to | Author: Benjamin Franklin | Source: Poor Richards Almanack | Completion: smell after three days"
+    },
+    {
+        "text": "Quote: Genius without education is like silver in | Author: Benjamin Franklin | Source: Poor Richards Almanack | Completion: the mine"
+    },
+    {
+        "text": "Quote: Experience keeps a dear school, but fools will | Author: Benjamin Franklin | Source: Poor Richards Almanack | Completion: learn in no other"
+    },
+    {
+        "text": "Quote: We are all born ignorant, but one must work hard to | Author: Benjamin Franklin | Source: Attributed | Completion: remain stupid"
+    },
+    {
+        "text": "Quote: Wine is constant proof that God loves us and loves to see | Author: Benjamin Franklin | Source: Attributed | Completion: us happy"
+    },
+    {
+        "text": "Quote: The heart of a fool is in his mouth, but the mouth of a wise man is in | Author: Benjamin Franklin | Source: Attributed | Completion: his heart"
+    },
+    {
+        "text": "Quote: Justice will not be served until those who are unaffected are as outraged as those | Author: Benjamin Franklin | Source: Attributed | Completion: who are"
+    },
+    {
+        "text": "Quote: To find out your faults, praise your friends, and to find out their faults, | Author: Benjamin Franklin | Source: Attributed | Completion: praise your enemies"
+    },
+    {
+        "text": "Quote: Do not fear mistakes You will know failure Continue to | Author: Benjamin Franklin | Source: Attributed | Completion: reach out"
+    },
+    {
+        "text": "Quote: Never leave that till tomorrow which you can do | Author: Benjamin Franklin | Source: Poor Richards Almanack | Completion: today"
+    },
+    {
+        "text": "Quote: He that is good for making excuses is seldom good for | Author: Benjamin Franklin | Source: Poor Richards Almanack | Completion: anything else"
+    },
+    {
+        "text": "Quote: An empty bag cannot | Author: Benjamin Franklin | Source: Poor Richards Almanack | Completion: stand upright"
+    },
+    {
+        "text": "Quote: Search others for their virtues, thyself for | Author: Benjamin Franklin | Source: Poor Richards Almanack | Completion: thy vices"
+    },
+    {
+        "text": "Quote: Small leaks sink | Author: Benjamin Franklin | Source: Poor Richards Almanack | Completion: a great ship"
+    },
+    {
+        "text": "Quote: If you would not be forgotten as soon as you are dead and rotten, either write things worth reading, or | Author: Benjamin Franklin | Source: Poor Richards Almanack | Completion: do things worth writing"
+    },
+    {
+        "text": "Quote: Content makes poor men rich; discontent makes | Author: Benjamin Franklin | Source: Poor Richards Almanack | Completion: rich men poor"
+    },
+    {
+        "text": "Quote: The morning is the wisest | Author: Benjamin Franklin | Source: Attributed | Completion: part of the day"
+    },
+    {
+        "text": "Quote: Wish not so much to live long as to | Author: Benjamin Franklin | Source: Poor Richards Almanack | Completion: live well"
+    },
+    {
+        "text": "Quote: Words may show a mans wit, but actions | Author: Benjamin Franklin | Source: Poor Richards Almanack | Completion: his meaning"
+    },
+    {
+        "text": "Quote: The person who has a firm trust in the Supreme Being is powerful in his protection, cheerful in his spirit, and | Author: Joseph Addison | Source: The Spectator | Completion: constant in his duty"
+    },
+    {
+        "text": "Quote: Books are the legacies that a great genius leaves to mankind, which are delivered down from generation to generation as presents to | Author: Joseph Addison | Source: The Spectator | Completion: the posterity of those who are yet unborn"
+    },
+    {
+        "text": "Quote: Reading is to the mind what exercise is to | Author: Joseph Addison | Source: The Tatler | Completion: the body"
+    },
+    {
+        "text": "Quote: I was angry with my friend; I told my wrath, my wrath did end I was angry with my foe: I told it not, | Author: William Blake | Source: A Poison Tree | Completion: my wrath did grow"
+    },
+    {
+        "text": "Quote: Every night and every morn / Some to misery are born / Every morn and every night / Some are born to | Author: William Blake | Source: Auguries of Innocence | Completion: sweet delight"
+    },
+    {
+        "text": "Quote: He who binds to himself a joy / Does the winged life destroy; / But he who kisses the joy as it flies / Lives in | Author: William Blake | Source: Eternity | Completion: eternitys sun rise"
+    },
+    {
+        "text": "Quote: The bird a nest, the spider a web, | Author: William Blake | Source: The Marriage of Heaven and Hell | Completion: man friendship"
+    },
+    {
+        "text": "Quote: Improvement makes straight roads; but the crooked roads without improvement are | Author: William Blake | Source: The Marriage of Heaven and Hell | Completion: roads of genius"
+    },
+    {
+        "text": "Quote: The tree which moves some to tears of joy is in the eyes of others only a green thing that | Author: William Blake | Source: Letter to Dr Trusler | Completion: stands in the way"
+    },
+    {
+        "text": "Quote: Truth can never be told so as to be understood, and not be | Author: William Blake | Source: Proverbs of Hell | Completion: believd"
+    },
+    {
+        "text": "Quote: In seed time learn, in harvest teach, | Author: William Blake | Source: The Marriage of Heaven and Hell | Completion: in winter enjoy"
+    },
+    {
+        "text": "Quote: He who desires but acts not, breeds | Author: William Blake | Source: The Marriage of Heaven and Hell | Completion: pestilence"
+    },
+    {
+        "text": "Quote: Prisons are built with stones of Law, Brothels with | Author: William Blake | Source: The Marriage of Heaven and Hell | Completion: bricks of Religion"
+    },
+    {
+        "text": "Quote: The pride of the peacock is the glory of God The lust of the goat is the bounty of God The wrath of the lion is the wisdom of God The nakedness of woman is the | Author: William Blake | Source: The Marriage of Heaven and Hell | Completion: work of God"
+    },
+    {
+        "text": "Quote: The most sublime act is to set another | Author: William Blake | Source: The Marriage of Heaven and Hell | Completion: before you"
+    },
+    {
+        "text": "Quote: Everything possible to be believd is an | Author: William Blake | Source: The Marriage of Heaven and Hell | Completion: image of truth"
+    },
+    {
+        "text": "Quote: A truth thats told with bad intent / Beats all the lies you | Author: William Blake | Source: Auguries of Innocence | Completion: can invent"
+    },
+    {
+        "text": "Quote: One thought fills | Author: William Blake | Source: The Marriage of Heaven and Hell | Completion: immensity"
+    },
+    {
+        "text": "Quote: Expect poison from | Author: William Blake | Source: The Marriage of Heaven and Hell | Completion: standing water"
+    },
+    {
+        "text": "Quote: The weak in courage is strong in | Author: William Blake | Source: The Marriage of Heaven and Hell | Completion: cunning"
+    },
+    {
+        "text": "Quote: Joys impregnate Sorrows | Author: William Blake | Source: The Marriage of Heaven and Hell | Completion: bring forth"
+    },
+    {
+        "text": "Quote: Excess of sorrow laughs Excess of joy | Author: William Blake | Source: The Marriage of Heaven and Hell | Completion: weeps"
+    },
+    {
+        "text": "Quote: You never know what is enough unless you know what is | Author: William Blake | Source: The Marriage of Heaven and Hell | Completion: more than enough"
+    },
+    {
+        "text": "Quote: I would rather be a rebel than a | Author: Emmeline Pankhurst | Source: Freedom or Death | Completion: slave"
+    },
+    {
+        "text": "Quote: The truth will set you free, but first it will | Author: Gloria Steinem | Source: Attributed | Completion: piss you off"
+    },
+    {
+        "text": "Quote: A woman without a man is like a fish without a | Author: Gloria Steinem | Source: Attributed | Completion: bicycle"
+    },
+    {
+        "text": "Quote: A feminist is anyone who recognizes the equality and full humanity of | Author: Gloria Steinem | Source: Attributed | Completion: women and men"
+    },
+    {
+        "text": "Quote: Writing is the only thing that, when I do it, I dont feel I should be | Author: Gloria Steinem | Source: Attributed | Completion: doing something else"
+    },
+    {
+        "text": "Quote: The first problem for all of us, men and women, is not to learn, but to | Author: Gloria Steinem | Source: Attributed | Completion: unlearn"
+    },
+    {
+        "text": "Quote: I have yet to hear a man ask for advice on how to combine a | Author: Gloria Steinem | Source: Attributed | Completion: career and a family"
+    },
+    {
+        "text": "Quote: The future depends entirely on what each of us does every day; a movement is only people | Author: Gloria Steinem | Source: Attributed | Completion: moving"
+    },
+    {
+        "text": "Quote: Freedom cannot be granted It must be | Author: A Philip Randolph | Source: Attributed | Completion: taken"
+    },
+    {
+        "text": "Quote: If there is no struggle, there is no | Author: Frederick Douglass | Source: West India Emancipation Speech | Completion: progress"
+    },
+    {
+        "text": "Quote: Power concedes nothing without a demand It never did and | Author: Frederick Douglass | Source: West India Emancipation Speech | Completion: it never will"
+    },
+    {
+        "text": "Quote: It is easier to build strong children than to | Author: Frederick Douglass | Source: Attributed | Completion: repair broken men"
+    },
+    {
+        "text": "Quote: I would unite with anybody to do right and with nobody to | Author: Frederick Douglass | Source: Attributed | Completion: do wrong"
+    },
+    {
+        "text": "Quote: Where justice is denied, where poverty is enforced, where ignorance prevails neither person nor property | Author: Frederick Douglass | Source: Speech on the 24th Anniversary of Emancipation | Completion: will be safe"
+    },
+    {
+        "text": "Quote: Once you learn to read, you will be | Author: Frederick Douglass | Source: Attributed | Completion: forever free"
+    },
+    {
+        "text": "Quote: The white mans happiness cannot be purchased by the | Author: Frederick Douglass | Source: Attributed | Completion: black mans misery"
+    },
+    {
+        "text": "Quote: I didnt know I was a slave until I found out I couldnt do the things | Author: Frederick Douglass | Source: Attributed | Completion: I wanted"
+    },
+    {
+        "text": "Quote: To suppress free speech is a double wrong It violates the rights of the hearer as well as those of | Author: Frederick Douglass | Source: A Plea for Free Speech in Boston | Completion: the speaker"
+    },
+    {
+        "text": "Quote: Find out just what any people will quietly submit to and you have found out the exact measure of injustice and wrong which will be | Author: Frederick Douglass | Source: Attributed | Completion: imposed upon them"
+    },
+    {
+        "text": "Quote: The life of the nation is secure only while the nation is | Author: Frederick Douglass | Source: Attributed | Completion: honest, truthful, and virtuous"
+    },
+    {
+        "text": "Quote: The limit of tyrants is prescribed by the endurance of | Author: Frederick Douglass | Source: Attributed | Completion: those whom they oppress"
+    },
+    {
+        "text": "Quote: Mans greatness consists in his ability to do and the proper application of his powers to things which | Author: Frederick Douglass | Source: Attributed | Completion: needed to be done"
+    },
+    {
+        "text": "Quote: There is no such thing as a self-made | Author: Frederick Douglass | Source: Self-Made Men | Completion: man"
+    },
+    {
+        "text": "Quote: One and God make a | Author: Frederick Douglass | Source: Attributed | Completion: majority"
+    },
+    {
+        "text": "Quote: A mans character always takes its hue, more or less, from the | Author: Frederick Douglass | Source: Attributed | Completion: form and color of things about him"
+    },
+    {
+        "text": "Quote: The soul that is within me no man | Author: Frederick Douglass | Source: Attributed | Completion: can degrade"
+    },
+    {
+        "text": "Quote: I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to | Author: Frederick Douglass | Source: Attributed | Completion: incur my own abhorrence"
+    },
+    {
+        "text": "Quote: A battle lost or won is easily described, understood, and appreciated, but the moral growth of a great people requires | Author: Frederick Douglass | Source: Attributed | Completion: reflection"
+    },
+    {
+        "text": "Quote: Education means emancipation It means light and liberty It means the uplifting of the soul of man into the glorious light of truth, the light by which men can | Author: Frederick Douglass | Source: Blessings of Liberty and Education | Completion: only be made free"
+    },
+    {
+        "text": "Quote: For the present, it is enough to affirm the equal manhood of the | Author: Frederick Douglass | Source: What to the Slave is the Fourth of July? | Completion: Negro race"
+    },
+    {
+        "text": "Quote: No man can put a chain about the ankle of his fellow man without at last finding the other end fastened about | Author: Frederick Douglass | Source: Attributed | Completion: his own neck"
+    },
+    {
+        "text": "Quote: The process of deluding ones self into the belief that one is right when one is | Author: Frederick Douglass | Source: Attributed | Completion: wrong"
+    },
+    {
+        "text": "Quote: There is a great difference between being free and | Author: Frederick Douglass | Source: Attributed | Completion: being independent"
+    },
+    {
+        "text": "Quote: If there is no struggle, there is | Author: Frederick Douglass | Source: Attributed | Completion: no progress"
+    },
+    {
+        "text": "Quote: Success is not to be measured by the position that one has reached in life as by the obstacles which he has | Author: Booker T Washington | Source: Up from Slavery | Completion: overcome"
+    },
+    {
+        "text": "Quote: I shall allow no man to belittle my soul by making me | Author: Booker T Washington | Source: Attributed | Completion: hate him"
+    },
+    {
+        "text": "Quote: Character is power | Author: Booker T Washington | Source: Attributed | Completion: In the long run"
+    },
+    {
+        "text": "Quote: If you want to lift yourself up, lift up | Author: Booker T Washington | Source: Attributed | Completion: someone else"
+    },
+    {
+        "text": "Quote: Nothing ever comes to one, that is worth having, except as a result of | Author: Booker T Washington | Source: Attributed | Completion: hard work"
+    },
+    {
+        "text": "Quote: Excellence is to do a common thing in an | Author: Booker T Washington | Source: Attributed | Completion: uncommon way"
+    },
+    {
+        "text": "Quote: There is no defense or security for any of us except in the highest intelligence and | Author: Booker T Washington | Source: Atlanta Compromise Speech | Completion: development of all"
+    },
+    {
+        "text": "Quote: I have learned that success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome while | Author: Booker T Washington | Source: Up from Slavery | Completion: trying to succeed"
+    },
+    {
+        "text": "Quote: The happiest people are those who do the most | Author: Booker T Washington | Source: Attributed | Completion: for others"
+    },
+    {
+        "text": "Quote: Associate yourself with people of good quality, for it is better to be alone than | Author: Booker T Washington | Source: Attributed | Completion: in bad company"
+    },
+    {
+        "text": "Quote: Few things can help an individual more than to place responsibility on him, and to let him know that you | Author: Booker T Washington | Source: Attributed | Completion: trust him"
+    },
+    {
+        "text": "Quote: The world cares very little about what a man or woman knows; it is what a man or woman is | Author: Booker T Washington | Source: Attributed | Completion: able to do that counts"
+    },
+    {
+        "text": "Quote: No race can prosper till it learns that there is as much dignity in tilling a field as in | Author: Booker T Washington | Source: Up from Slavery | Completion: writing a poem"
+    },
+    {
+        "text": "Quote: The cost of liberty is less than the price of | Author: WEB Du Bois | Source: Attributed | Completion: repression"
+    },
+    {
+        "text": "Quote: The problem of the twentieth century is the problem of the | Author: WEB Du Bois | Source: The Souls of Black Folk | Completion: color-line"
+    },
+    {
+        "text": "Quote: Believe in life! Always human beings will live and progress to greater, broader and | Author: WEB Du Bois | Source: Attributed | Completion: fuller life"
+    },
+    {
+        "text": "Quote: A little less complaint and whining, and a little more dogged-on | Author: WEB Du Bois | Source: Attributed | Completion: work"
+    },
+    {
+        "text": "Quote: Children learn more from what you are than | Author: WEB Du Bois | Source: Attributed | Completion: what you teach"
+    },
+    {
+        "text": "Quote: The worker must work for the glory of his handiwork, not simply for | Author: WEB Du Bois | Source: Attributed | Completion: pay"
+    },
+    {
+        "text": "Quote: As I have said before, and I repeat it now, the only way to settle the color line is to | Author: WEB Du Bois | Source: Attributed | Completion: abolish it"
+    },
+    {
+        "text": "Quote: Either the United States will destroy ignorance, or ignorance will | Author: WEB Du Bois | Source: Attributed | Completion: destroy the United States"
+    },
+    {
+        "text": "Quote: I believe that all men, black and brown and white, are | Author: WEB Du Bois | Source: Credo | Completion: brothers"
+    },
+    {
+        "text": "Quote: Rule-following, legalistic virtue is | Author: WEB Du Bois | Source: Attributed | Completion: no substitute for character"
+    },
+    {
+        "text": "Quote: We cant be afraid of | Author: WEB Du Bois | Source: Attributed | Completion: the truth"
+    },
+    {
+        "text": "Quote: I think that a world where its not okay to be yourself is | Author: WEB Du Bois | Source: Attributed | Completion: not a world at all"
+    },
+    {
+        "text": "Quote: There is no such thing as the white mans burden The burden is | Author: WEB Du Bois | Source: Attributed | Completion: on the black man"
+    },
+    {
+        "text": "Quote: Education and work are the levers to | Author: WEB Du Bois | Source: Attributed | Completion: uplift a people"
+    },
+    {
+        "text": "Quote: Ignorance is a cure for nothing | Author: WEB Du Bois | Source: Attributed | Completion: Knowledge is the only way"
+    },
+    {
+        "text": "Quote: One ever feels his two-ness—an American, a Negro; two souls, two thoughts, two unreconciled strivings; two warring ideals in | Author: WEB Du Bois | Source: The Souls of Black Folk | Completion: one dark body"
+    },
+    {
+        "text": "Quote: If there is any failure of my life, it has been in the | Author: WEB Du Bois | Source: Attributed | Completion: excess of my ideals"
+    },
+    {
+        "text": "Quote: The most important thing for a young man is to | Author: WEB Du Bois | Source: Attributed | Completion: establish a character"
+    },
+    {
+        "text": "Quote: Honest and earnest criticism from those whose interests are most nearly touched—criticism of writers by readers, of government by those governed is | Author: WEB Du Bois | Source: Attributed | Completion: the soul of democracy"
+    },
+    {
+        "text": "Quote: You cannot make a silk purse out of a | Author: WEB Du Bois | Source: Attributed | Completion: sows ear"
+    },
+    {
+        "text": "Quote: Humanities must be taught first The work | Author: WEB Du Bois | Source: Attributed | Completion: comes later"
+    },
+    {
+        "text": "Quote: Strive for that greatness of spirit which can measure | Author: WEB Du Bois | Source: Attributed | Completion: the greatness of others"
+    },
+    {
+        "text": "Quote: The Negro is a sort of seventh son, born with a veil, and gifted with second-sight in | Author: WEB Du Bois | Source: The Souls of Black Folk | Completion: this American world"
+    },
+    {
+        "text": "Quote: I dont think that we should allow our differences to | Author: WEB Du Bois | Source: Attributed | Completion: prevent us from working together"
+    },
+    {
+        "text": "Quote: The world is a beautiful place for those who have the | Author: WEB Du Bois | Source: Attributed | Completion: eyes to see it"
+    },
+    {
+        "text": "Quote: Nothing is more dangerous than to call any one condition of human life | Author: WEB Du Bois | Source: Attributed | Completion: final"
+    },
+    {
+        "text": "Quote: The only thing that can save the world is | Author: WEB Du Bois | Source: Attributed | Completion: intelligence"
+    },
+    {
+        "text": "Quote: The true student will not be | Author: WEB Du Bois | Source: Attributed | Completion: deterred"
+    },
+    {
+        "text": "Quote: Life is not a matter of winning or losing, but of | Author: WEB Du Bois | Source: Attributed | Completion: how you play the game"
+    },
+    {
+        "text": "Quote: Be true to yourself and the | Author: WEB Du Bois | Source: Attributed | Completion: rest will follow"
+    },
+    {
+        "text": "Quote: The history of the world is the history of | Author: WEB Du Bois | Source: Attributed | Completion: human struggle"
+    },
+    {
+        "text": "Quote: You have to be a person first, and then | Author: WEB Du Bois | Source: Attributed | Completion: a citizen"
+    },
+    {
+        "text": "Quote: If you want to know the truth about a people, look at | Author: WEB Du Bois | Source: Attributed | Completion: their art"
+    },
+    {
+        "text": "Quote: Man is a social being, and he can only | Author: WEB Du Bois | Source: Attributed | Completion: thrive in a community"
+    },
+    {
+        "text": "Quote: The best way to help the poor is to | Author: WEB Du Bois | Source: Attributed | Completion: educate them"
+    },
+    {
+        "text": "Quote: I have loved the truth and | Author: WEB Du Bois | Source: Attributed | Completion: hated a lie"
+    },
+    {
+        "text": "Quote: Liberty is the souls right to breathe, and when it cannot take a long breath, laws are | Author: Henry Ward Beecher | Source: Proverbs from Plymouth Pulpit | Completion: girdles of dead mens iron"
+    },
+    {
+        "text": "Quote: The art of being happy lies in the power of extracting happiness from | Author: Henry Ward Beecher | Source: Proverbs from Plymouth Pulpit | Completion: common things"
+    },
+    {
+        "text": "Quote: Greatness lies, not in being strong, but in the | Author: Henry Ward Beecher | Source: Proverbs from Plymouth Pulpit | Completion: right manifesting of strength"
+    },
+    {
+        "text": "Quote: Every man should have a fair-sized cemetery in which to bury the | Author: Henry Ward Beecher | Source: Proverbs from Plymouth Pulpit | Completion: faults of his friends"
+    },
+    {
+        "text": "Quote: A man without a smiling face must not | Author: Chinese Proverb | Source: Traditional | Completion: open a shop"
+    },
+    {
+        "text": "Quote: The best time to plant a tree was 20 years ago The second best time is | Author: Chinese Proverb | Source: Traditional | Completion: now"
+    },
+    {
+        "text": "Quote: He who asks is a fool for five minutes, but he who does not ask remains a | Author: Chinese Proverb | Source: Traditional | Completion: fool forever"
+    },
+    {
+        "text": "Quote: A journey of a thousand miles begins with a | Author: Lao Tzu | Source: Tao Te Ching | Completion: single step"
+    },
+    {
+        "text": "Quote: If you are patient in one moment of anger, you will escape a | Author: Chinese Proverb | Source: Traditional | Completion: hundred days of sorrow"
+    },
+    {
+        "text": "Quote: When the winds of change blow, some people build walls and others build | Author: Chinese Proverb | Source: Traditional | Completion: windmills"
+    },
+    {
+        "text": "Quote: Give a man a fish and you feed him for a day Teach a man to fish and you | Author: Chinese Proverb | Source: Traditional | Completion: feed him for a lifetime"
+    },
+    {
+        "text": "Quote: An inch of time is an inch of gold, but you cant buy that inch of time with an | Author: Chinese Proverb | Source: Traditional | Completion: inch of gold"
+    },
+    {
+        "text": "Quote: Be not afraid of growing slowly, be afraid only of | Author: Chinese Proverb | Source: Traditional | Completion: standing still"
+    },
+    {
+        "text": "Quote: One generation plants the trees; another gets | Author: Chinese Proverb | Source: Traditional | Completion: the shade"
+    },
+    {
+        "text": "Quote: A crisis is an opportunity riding the | Author: Chinese Proverb | Source: Traditional | Completion: dangerous wind"
+    },
+    {
+        "text": "Quote: Better to light a candle than to | Author: Chinese Proverb | Source: Traditional | Completion: curse the darkness"
+    },
+    {
+        "text": "Quote: If you want to find out about the road ahead, ask those | Author: Chinese Proverb | Source: Traditional | Completion: coming back"
+    },
+    {
+        "text": "Quote: In the end, its not the years in your life that count Its the | Author: Abraham Lincoln | Source: Attributed | Completion: life in your years"
+    },
+    {
+        "text": "Quote: To be trusted is a greater compliment than | Author: George MacDonald | Source: Unspoken Sermons | Completion: to be loved"
+    },
+    {
+        "text": "Quote: Education is the most powerful weapon which you can use to | Author: Nelson Mandela | Source: Speech at Madison Park High School | Completion: change the world"
+    },
+    {
+        "text": "Quote: It always seems impossible until | Author: Nelson Mandela | Source: Attributed | Completion: its done"
+    },
+    {
+        "text": "Quote: For to be free is not merely to cast off ones chains, but to live in a way that respects and enhances the | Author: Nelson Mandela | Source: Long Walk to Freedom | Completion: freedom of others"
+    },
+    {
+        "text": "Quote: The greatest glory in living lies not in never falling, but in | Author: Nelson Mandela | Source: Long Walk to Freedom | Completion: rising every time we fall"
+    },
+    {
+        "text": "Quote: I learned that courage was not the absence of fear, but the | Author: Nelson Mandela | Source: Long Walk to Freedom | Completion: triumph over it"
+    },
+    {
+        "text": "Quote: A good head and a good heart are always a | Author: Nelson Mandela | Source: Attributed | Completion: formidable combination"
+    },
+    {
+        "text": "Quote: Lead from the back — and let others believe they are | Author: Nelson Mandela | Source: Long Walk to Freedom | Completion: in front"
+    },
+    {
+        "text": "Quote: There is no passion to be found playing small—in settling for a life that is less than the one you are | Author: Nelson Mandela | Source: Attributed | Completion: capable of living"
+    },
+    {
+        "text": "Quote: Resentment is like drinking poison and then hoping it will | Author: Nelson Mandela | Source: Attributed | Completion: kill your enemies"
+    },
+    {
+        "text": "Quote: I am the captain of my soul | Author: William Ernest Henley | Source: Invictus | Completion: I am the master of my fate"
+    },
+    {
+        "text": "Quote: Under the bludgeonings of chance / My head is bloody, but | Author: William Ernest Henley | Source: Invictus | Completion: unbowed"
+    },
+    {
+        "text": "Quote: Two roads diverged in a wood, and I—I took the one less traveled by, and | Author: Robert Frost | Source: The Road Not Taken | Completion: that has made all the difference"
+    },
+    {
+        "text": "Quote: The woods are lovely, dark and deep, / But I have promises to keep, / And miles to go before | Author: Robert Frost | Source: Stopping by Woods on a Snowy Evening | Completion: I sleep"
+    },
+    {
+        "text": "Quote: Nothing gold can | Author: Robert Frost | Source: Poem | Completion: stay"
+    },
+    {
+        "text": "Quote: In three words I can sum up everything Ive learned about life: | Author: Robert Frost | Source: Attributed | Completion: It goes on"
+    },
+    {
+        "text": "Quote: Happiness makes up in height for what it lacks in | Author: Robert Frost | Source: Attributed | Completion: length"
+    },
+    {
+        "text": "Quote: A poem begins as a lump in the throat, a sense of wrong, a homesickness, a | Author: Robert Frost | Source: Letter to Louis Untermeyer | Completion: lovesickness"
+    },
+    {
+        "text": "Quote: Love is an irresistible desire to be | Author: Robert Frost | Source: Attributed | Completion: irresistibly desired"
+    },
+    {
+        "text": "Quote: Education is the ability to listen to almost anything without | Author: Robert Frost | Source: Attributed | Completion: losing your temper or your self-confidence"
+    },
+    {
+        "text": "Quote: The best way out is always | Author: Robert Frost | Source: A Servant to Servants | Completion: through"
+    },
+    {
+        "text": "Quote: Forgive, O Lord, my little jokes on Thee / And Ill forgive Thy great big | Author: Robert Frost | Source: Cluster of Faith | Completion: one on me"
+    },
+    {
+        "text": "Quote: Freedom lies in being | Author: Robert Frost | Source: Attributed | Completion: bold"
+    },
+    {
+        "text": "Quote: Im not a confused person Im just a well-mixed | Author: Robert Frost | Source: Attributed | Completion: person"
+    },
+    {
+        "text": "Quote: Style is that which indicates how the writer takes | Author: Robert Frost | Source: Letter to Cannon | Completion: himself"
+    },
+    {
+        "text": "Quote: A civilized society is one which tolerates | Author: Robert Frost | Source: Attributed | Completion: eccentricity"
+    },
+    {
+        "text": "Quote: Earths the right place for love: I dont know where | Author: Robert Frost | Source: Birches | Completion: its likely to go better"
+    },
+    {
+        "text": "Quote: Thinking is not to agree or disagree Thats | Author: Robert Frost | Source: Attributed | Completion: voting"
+    },
+    {
+        "text": "Quote: Dont ever take a fence down until you know | Author: Robert Frost | Source: Attributed | Completion: why it was put up"
+    },
+    {
+        "text": "Quote: Half the world is composed of people who have something to say and cant, and the other half who have nothing to say and | Author: Robert Frost | Source: Attributed | Completion: keep on saying it"
+    },
+    {
+        "text": "Quote: If we couldnt laugh we would all go | Author: Robert Frost | Source: Attributed | Completion: insane"
+    },
+    {
+        "text": "Quote: Poetry is when an emotion has found its thought and the thought has | Author: Robert Frost | Source: Attributed | Completion: found words"
+    },
+    {
+        "text": "Quote: Writing free verse is like playing tennis with the | Author: Robert Frost | Source: Address at Milton Academy | Completion: net down"
+    },
+    {
+        "text": "Quote: You cant get too much winter in | Author: Robert Frost | Source: Attributed | Completion: the winter"
+    },
+    {
+        "text": "Quote: The afternoon knows what the morning | Author: Robert Frost | Source: Attributed | Completion: never suspected"
+    },
+    {
+        "text": "Quote: No tears in the writer, no tears in the reader No surprise in the writer, | Author: Robert Frost | Source: The Figure a Poem Makes | Completion: no surprise in the reader"
+    },
+    {
+        "text": "Quote: Home is the place where, when you have to go there, | Author: Robert Frost | Source: The Death of the Hired Man | Completion: they have to take you in"
+    },
+    {
+        "text": "Quote: A bank is a place where they lend you an umbrella in fair weather and ask for it back when it | Author: Robert Frost | Source: Attributed | Completion: begins to rain"
+    },
+    {
+        "text": "Quote: Reason is the first victim of | Author: Robert Frost | Source: Attributed | Completion: emotion"
+    },
+    {
+        "text": "Quote: Life is like a box of chocolates You never know | Author: Forrest Gump (Character) | Source: Forrest Gump | Completion: what youre gonna get"
+    },
+    {
+        "text": "Quote: Stupid is as | Author: Forrest Gump (Character) | Source: Forrest Gump | Completion: stupid does"
+    },
+    {
+        "text": "Quote: My mama always said, youve got to put the past behind you before | Author: Forrest Gump (Character) | Source: Forrest Gump | Completion: you can move on"
+    },
+    {
+        "text": "Quote: To be or not to be, that is the | Author: William Shakespeare | Source: Hamlet | Completion: question"
+    },
+    {
+        "text": "Quote: All the worlds a stage, and all the men and women | Author: William Shakespeare | Source: As You Like It | Completion: merely players"
+    },
+    {
+        "text": "Quote: The course of true love never did | Author: William Shakespeare | Source: A Midsummer Nights Dream | Completion: run smooth"
+    },
+    {
+        "text": "Quote: Parting is such sweet | Author: William Shakespeare | Source: Romeo and Juliet | Completion: sorrow"
+    },
+    {
+        "text": "Quote: If music be the food of love, | Author: William Shakespeare | Source: Twelfth Night | Completion: play on"
+    },
+    {
+        "text": "Quote: To thine own self be | Author: William Shakespeare | Source: Hamlet | Completion: true"
+    },
+    {
+        "text": "Quote: Cowards die many times before their deaths; the valiant never taste of death | Author: William Shakespeare | Source: Julius Caesar | Completion: but once"
+    },
+    {
+        "text": "Quote: Some are born great, some achieve greatness, and some have greatness | Author: William Shakespeare | Source: Twelfth Night | Completion: thrust upon em"
+    },
+    {
+        "text": "Quote: The lady doth protest too much, | Author: William Shakespeare | Source: Hamlet | Completion: methinks"
+    },
+    {
+        "text": "Quote: Brevity is the soul of | Author: William Shakespeare | Source: Hamlet | Completion: wit"
+    },
+    {
+        "text": "Quote: All that glitters is not | Author: William Shakespeare | Source: The Merchant of Venice | Completion: gold"
+    },
+    {
+        "text": "Quote: Love all, trust a few, do wrong to | Author: William Shakespeare | Source: Alls Well That Ends Well | Completion: none"
+    },
+    {
+        "text": "Quote: The evil that men do lives after them; the good is oft interred with | Author: William Shakespeare | Source: Julius Caesar | Completion: their bones"
+    },
+    {
+        "text": "Quote: Hell is empty and all the devils are | Author: William Shakespeare | Source: The Tempest | Completion: here"
+    },
+    {
+        "text": "Quote: We are such stuff as dreams are made on, and our little life is rounded with | Author: William Shakespeare | Source: The Tempest | Completion: a sleep"
+    },
+    {
+        "text": "Quote: Words, words, | Author: William Shakespeare | Source: Hamlet | Completion: words"
+    },
+    {
+        "text": "Quote: Though this be madness, yet there is | Author: William Shakespeare | Source: Hamlet | Completion: method in t"
+    },
+    {
+        "text": "Quote: Expectation is the root of all | Author: William Shakespeare | Source: Attributed | Completion: heartache"
+    },
+    {
+        "text": "Quote: Listen to many, speak to a | Author: William Shakespeare | Source: Hamlet | Completion: few"
+    },
+    {
+        "text": "Quote: There is nothing either good or bad, but thinking | Author: William Shakespeare | Source: Hamlet | Completion: makes it so"
+    },
+    {
+        "text": "Quote: Sweet are the uses of | Author: William Shakespeare | Source: As You Like It | Completion: adversity"
+    },
+    {
+        "text": "Quote: Our doubts are traitors and make us lose the good we oft might win by | Author: William Shakespeare | Source: Measure for Measure | Completion: fearing to attempt"
+    },
+    {
+        "text": "Quote: Uneasy lies the head that wears a | Author: William Shakespeare | Source: Henry IV, Part 2 | Completion: crown"
+    },
+    {
+        "text": "Quote: Wisely and slow; they stumble that | Author: William Shakespeare | Source: Romeo and Juliet | Completion: run fast"
+    },
+    {
+        "text": "Quote: The miserable have no other medicine but only | Author: William Shakespeare | Source: Measure for Measure | Completion: hope"
+    },
+    {
+        "text": "Quote: One touch of nature makes the whole world | Author: William Shakespeare | Source: Troilus and Cressida | Completion: kin"
+    },
+    {
+        "text": "Quote: Give every man thy ear, but few thy | Author: William Shakespeare | Source: Hamlet | Completion: voice"
+    },
+    {
+        "text": "Quote: Better a witty fool than a | Author: William Shakespeare | Source: Twelfth Night | Completion: foolish wit"
+    },
+    {
+        "text": "Quote: Small things make base men | Author: William Shakespeare | Source: Henry VI, Part 2 | Completion: proud"
+    },
+    {
+        "text": "Quote: How poor are they that have not | Author: William Shakespeare | Source: Othello | Completion: patience!"
+    },
+    {
+        "text": "Quote: Strong reasons make strong | Author: William Shakespeare | Source: King John | Completion: actions"
+    },
+    {
+        "text": "Quote: Men at some time are masters of their fates: The fault, dear Brutus, is not in our stars, but in ourselves, that we are | Author: William Shakespeare | Source: Julius Caesar | Completion: underlings"
+    },
+    {
+        "text": "Quote: Nothing can come of | Author: William Shakespeare | Source: King Lear | Completion: nothing"
+    },
+    {
+        "text": "Quote: Whats done cannot be | Author: William Shakespeare | Source: Macbeth | Completion: undone"
+    },
+    {
+        "text": "Quote: Lifes but a walking shadow, a poor player that struts and frets his hour upon the stage and then is | Author: William Shakespeare | Source: Macbeth | Completion: heard no more"
+    },
+    {
+        "text": "Quote: Double, double toil and trouble; / Fire burn and | Author: William Shakespeare | Source: Macbeth | Completion: cauldron bubble"
+    },
+    {
+        "text": "Quote: By the pricking of my thumbs, something wicked | Author: William Shakespeare | Source: Macbeth | Completion: this way comes"
+    },
+    {
+        "text": "Quote: Out, damned | Author: William Shakespeare | Source: Macbeth | Completion: spot!"
+    },
+    {
+        "text": "Quote: True hope is swift, and flies with swallows | Author: William Shakespeare | Source: Richard III | Completion: wings"
+    },
+    {
+        "text": "Quote: A horse! a horse! my kingdom for a | Author: William Shakespeare | Source: Richard III | Completion: horse!"
+    },
+    {
+        "text": "Quote: Now is the winter of our | Author: William Shakespeare | Source: Richard III | Completion: discontent"
+    },
+    {
+        "text": "Quote: The world is mine | Author: William Shakespeare | Source: The Merry Wives of Windsor | Completion: oyster"
+    },
+    {
+        "text": "Quote: Friends, Romans, countrymen, lend me your | Author: William Shakespeare | Source: Julius Caesar | Completion: ears"
+    },
+    {
+        "text": "Quote: Et tu, | Author: William Shakespeare | Source: Julius Caesar | Completion: Brute?"
+    },
+    {
+        "text": "Quote: Frailty, thy name is | Author: William Shakespeare | Source: Hamlet | Completion: woman!"
+    },
+    {
+        "text": "Quote: Neither a borrower nor a | Author: William Shakespeare | Source: Hamlet | Completion: lender be"
+    },
+    {
+        "text": "Quote: Something is rotten in the state of | Author: William Shakespeare | Source: Hamlet | Completion: Denmark"
+    },
+    {
+        "text": "Quote: To sleep: perchance to | Author: William Shakespeare | Source: Hamlet | Completion: dream"
+    },
+    {
+        "text": "Quote: Alas, poor Yorick! I knew him, | Author: William Shakespeare | Source: Hamlet | Completion: Horatio"
+    },
+    {
+        "text": "Quote: There are more things in heaven and earth, Horatio, than are dreamt of in | Author: William Shakespeare | Source: Hamlet | Completion: your philosophy"
+    },
+    {
+        "text": "Quote: God has given you one face, and you make yourselves | Author: William Shakespeare | Source: Hamlet | Completion: another"
+    },
+    {
+        "text": "Quote: The rest is | Author: William Shakespeare | Source: Hamlet | Completion: silence"
+    },
+    {
+        "text": "Quote: Whats in a name? That which we call a rose by any other name would | Author: William Shakespeare | Source: Romeo and Juliet | Completion: smell as sweet"
+    },
+    {
+        "text": "Quote: Good night, good night! Parting is such sweet sorrow, that I shall say good night till | Author: William Shakespeare | Source: Romeo and Juliet | Completion: it be morrow"
+    },
+    {
+        "text": "Quote: A man can die but | Author: William Shakespeare | Source: Henry IV, Part 2 | Completion: once"
+    },
+    {
+        "text": "Quote: I am a man more sinned against than | Author: William Shakespeare | Source: King Lear | Completion: sinning"
+    },
+    {
+        "text": "Quote: The ripest fruit first | Author: William Shakespeare | Source: Richard II | Completion: falls"
+    },
+    {
+        "text": "Quote: And so from hour to hour, we ripe and ripe, and then from hour to hour, we rot and rot; and thereby hangs a | Author: William Shakespeare | Source: As You Like It | Completion: tale"
+    }
+]

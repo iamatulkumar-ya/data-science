@@ -7,3 +7,4 @@ model.safetensors
 .venv*
 
 **/vectordb/*
+**-training
