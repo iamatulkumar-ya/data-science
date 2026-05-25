@@ -8,3 +8,5 @@ model.safetensors
 
 **/vectordb/*
 **-training
+
+*.env

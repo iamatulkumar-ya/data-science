@@ -4,3 +4,8 @@ chromadb
 ipykernel
 pandas
 sentence-transformers
+accelerate
+langchain-community
+langchain-chroma
+langchain-huggingface
+ragas
