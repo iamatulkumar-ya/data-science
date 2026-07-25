@@ -1,0 +1,4 @@
+fastmcp==3.3.1
+cachetools==7.1.4
+httpx==0.28.1
+unicorn==2.1.4
