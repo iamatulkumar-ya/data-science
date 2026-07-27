@@ -1,0 +1,26 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "Assistive AI helps users perform specific tasks but requires direct human input. It reacts to commands (e.g., spell check, voice assistants setting reminders).  \n\nAgentic AI acts autonomously to achieve goals without constant human direction. It plans, makes decisions, and adapts (e.g., scheduling meetings, researching solutions, or adjusting plans based on new data).  \n\n**Key difference**:  \n- Assistive AI *responds* to user requests.  \n- Agentic AI *proactively acts* toward objectives."
+      }
+    ],
+    "metadata": {
+      "usage": {
+        "inputTokens": 101,
+        "outputTokens": 521,
+        "totalTokens": 622
+      },
+      "metrics": {
+        "latencyMs": 46814,
+        "timeToFirstByteMs": 199
+      }
+    },
+    "tracking_id": "d2f36aae-2e42-443f-afcb-f026ba570653"
+  },
+  "message_id": 1,
+  "redact_message": null,
+  "created_at": "2026-07-26T12:09:03.634291+00:00",
+  "updated_at": "2026-07-26T12:09:03.634301+00:00"
+}

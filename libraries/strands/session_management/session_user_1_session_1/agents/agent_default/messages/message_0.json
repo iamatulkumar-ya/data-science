@@ -1,0 +1,15 @@
+{
+  "message": {
+    "role": "user",
+    "content": [
+      {
+        "text": "What is difference between Assistive AI and Agentic AI?"
+      }
+    ],
+    "tracking_id": "60ec184d-9e04-4f94-9af0-cb4a47d07d05"
+  },
+  "message_id": 0,
+  "redact_message": null,
+  "created_at": "2026-07-26T12:08:16.330344+00:00",
+  "updated_at": "2026-07-26T12:08:16.330347+00:00"
+}

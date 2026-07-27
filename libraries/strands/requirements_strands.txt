@@ -1,0 +1,5 @@
+strands-agents-tools
+strands-agents
+pydantic
+ollama
+ipykernel

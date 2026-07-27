@@ -1,0 +1,26 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "In this conversation, you've asked:  \n1. \"What is quantum computing and how it different with normal computing?\"  \n2. \"Where are we currently using it?\""
+      }
+    ],
+    "metadata": {
+      "usage": {
+        "inputTokens": 452,
+        "outputTokens": 390,
+        "totalTokens": 842
+      },
+      "metrics": {
+        "latencyMs": 39680,
+        "timeToFirstByteMs": 207
+      }
+    },
+    "tracking_id": "9cfd2e95-09cc-4d2a-ac34-39b15fba0a59"
+  },
+  "message_id": 5,
+  "redact_message": null,
+  "created_at": "2026-07-26T12:20:59.005828+00:00",
+  "updated_at": "2026-07-26T12:20:59.005837+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "Quantum computing is still in early research stages and not used for mainstream applications. Current real-world uses are limited to:\n\n1. **Research labs** (e.g., IBM, Google, Microsoft) testing quantum algorithms and hardware.\n2. **Specific industry experiments**:\n   - Volkswagen uses quantum-inspired algorithms to optimize traffic flow in cities.\n   - Airbus explores quantum solutions for aircraft design and fuel efficiency.\n   - Pharmaceutical companies (like Roche) simulate molecular structures to accelerate drug discovery.\n\nThese are **pilot projects**, not commercial products. Quantum computers today solve *very specific problems* (like complex chemistry simulations) that classical supercomputers struggle with, but they are error-prone and require extreme cooling. They are **not replacing regular computers** for tasks like browsing or office work. Widespread practical use is likely years away."
+      }
+    ],
+    "metadata": {
+      "usage": {
+        "inputTokens": 264,
+        "outputTokens": 733,
+        "totalTokens": 997
+      },
+      "metrics": {
+        "latencyMs": 71755,
+        "timeToFirstByteMs": 231
+      }
+    },
+    "tracking_id": "60a8e2d1-83cf-41f8-b38d-233ea7d62322"
+  },
+  "message_id": 3,
+  "redact_message": null,
+  "created_at": "2026-07-26T12:17:25.094523+00:00",
+  "updated_at": "2026-07-26T12:17:25.094531+00:00"
+}

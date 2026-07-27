@@ -1,0 +1,15 @@
+{
+  "message": {
+    "role": "user",
+    "content": [
+      {
+        "text": "What is quantum computing and how it different with normal computing?"
+      }
+    ],
+    "tracking_id": "8079373b-45fa-44ed-9703-8955349986b8"
+  },
+  "message_id": 0,
+  "redact_message": null,
+  "created_at": "2026-07-26T12:13:07.836589+00:00",
+  "updated_at": "2026-07-26T12:13:07.836592+00:00"
+}

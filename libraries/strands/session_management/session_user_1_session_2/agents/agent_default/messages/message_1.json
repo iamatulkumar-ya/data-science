@@ -1,0 +1,26 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "Quantum computing uses quantum bits (qubits) instead of classical bits. While normal computers process data as 0s or 1s, qubits leverage quantum physics to exist as 0, 1, or both simultaneously (superposition). They also use entanglement—where qubits link so their states depend on each other—to process complex information in parallel.  \n\nThis lets quantum computers solve specific problems much faster, like simulating molecules for drug discovery or optimizing large systems. However, they aren’t better for everyday tasks (like browsing or word processing). Classical computers remain superior for most daily use, while quantum computers tackle highly complex, specialized challenges that would take classical machines centuries. They’re complementary, not replacements."
+      }
+    ],
+    "metadata": {
+      "usage": {
+        "inputTokens": 101,
+        "outputTokens": 555,
+        "totalTokens": 656
+      },
+      "metrics": {
+        "latencyMs": 49259,
+        "timeToFirstByteMs": 204
+      }
+    },
+    "tracking_id": "06a4b158-1980-4cf8-9cc4-f564a16abc79"
+  },
+  "message_id": 1,
+  "redact_message": null,
+  "created_at": "2026-07-26T12:13:57.603913+00:00",
+  "updated_at": "2026-07-26T12:13:57.603921+00:00"
+}
